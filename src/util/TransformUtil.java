@@ -17,7 +17,6 @@ import java.util.Map;
 
 public class TransformUtil {
     public static String executeLinesToGroups(String json) {
-        String fileName = "E:\\IdeaProjects\\JSONFileTransformUtil\\json\\groups.json";
         Gson gson = new Gson();
         if (json != null && !json.isEmpty()) {
             JSONObject jsonObject = new JSONObject(json);
@@ -29,14 +28,13 @@ public class TransformUtil {
             }
             JSONObject result = new JSONObject();
             result.put("activeDataList", lines);
-            FileUtil.write(fileName, result.toString());
+            FileUtil.write(Values.GROUPS_NAME, result.toString());
             System.out.println("lines.json 转换 groups.json 成功");
         }
         return null;
     }
 
     public static String executeTowersToTargets(String json) {
-        String fileName = "E:\\IdeaProjects\\JSONFileTransformUtil\\json\\targets.json";
 
         Gson gson = new GsonBuilder().serializeNulls().create();
         if (json != null && !json.isEmpty()) {
@@ -58,14 +56,13 @@ public class TransformUtil {
                 System.out.println("towers 转换 list 成功");
             }
             String result = "{\"activeDateList\":" + gson.toJson(targets) + "}";
-            FileUtil.write(fileName, result);
+            FileUtil.write(Values.TARGETS_NAME, result);
             System.out.println("towers.json 转换 targets.json 成功");
         }
         return null;
     }
 
     public static String executeMissionTowersToCollectionInfo(String json) {
-        String fileName = "E:\\IdeaProjects\\JSONFileTransformUtil\\json\\collections.json";
         //设置要替换的key
         HashMap<String, String> rep = new HashMap<String, String>();
         rep.put("towerId","targetId");
@@ -82,7 +79,7 @@ public class TransformUtil {
                 System.out.println("MissionTowers 转换 list 成功");
             }
             String result = "{\"activeDateList\":" + gson.toJson(collections) + "}";
-            FileUtil.write(fileName, result);
+            FileUtil.write(Values.COLLECTIONS_NAME, result);
             System.out.println("MissionTowers.json 转换 CollectionInfo.json 成功");
         }
         return null;

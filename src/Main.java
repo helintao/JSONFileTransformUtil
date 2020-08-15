@@ -1,16 +1,14 @@
 import util.FileUtil;
 import util.TransformUtil;
+import util.Values;
 
 public class Main {
     public static void main(String[] args) {
-        String lineName = "E:\\IdeaProjects\\JSONFileTransformUtil\\json\\lines.json";
-        String towersName = "E:\\IdeaProjects\\JSONFileTransformUtil\\json\\towers.json";
-        String missionTowersName = "E:\\IdeaProjects\\JSONFileTransformUtil\\json\\missionTowers.json";
-//        String lineJson = FileUtil.getJson(lineName);
-//        TransformUtil.executeLinesToGroups(lineJson);
-//        String towersJson = FileUtil.getJson(towersName);
-//        TransformUtil.executeTowersToTargets(towersJson);
-        String missionTowersJson = FileUtil.getJson(missionTowersName);
+        String lineJson = FileUtil.getJson(Values.LINE_NAME);
+        TransformUtil.executeLinesToGroups(lineJson);
+        String towersJson = FileUtil.getJson(Values.TOWERS_NAME);
+        TransformUtil.executeTowersToTargets(towersJson);
+        String missionTowersJson = FileUtil.getJson(Values.MISSION_TOWERS_NAME);
         TransformUtil.executeMissionTowersToCollectionInfo(missionTowersJson);
     }
 }

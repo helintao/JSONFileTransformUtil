@@ -1,0 +1,3794 @@
+{
+  "activeDataList": [
+    {
+      "id": "6f7474a4-f1e3-464c-b99b-a1bde6687ee8",
+      "createdBy": "tljc",
+      "createdAt": 1590809794531,
+      "distanceInM": 543.6073866732977,
+      "durationInS": 202,
+      "images": [
+        {
+          "index": 1,
+          "md5": "cf13fd12eae2d36687a116ec0eaba4c6"
+        },
+        {
+          "index": 2,
+          "md5": "c2dc2950bb4c572ffd63799be6d03fa4"
+        },
+        {
+          "index": 4,
+          "md5": "94d167d35cf07b90930268d0d62c38b7"
+        },
+        {
+          "index": 6,
+          "md5": "750f4bda3024efdad2819df08b84f152"
+        },
+        {
+          "index": 9,
+          "md5": "52da90cd0958cd357e90789e9750f11e"
+        },
+        {
+          "index": 11,
+          "md5": "9d8a312b3dab522d28aaff0b86dc3e3d"
+        },
+        {
+          "index": 12,
+          "md5": "804eb07cffe78b0c1606569a104d0ced"
+        }
+      ],
+      "maxAltInM": 111.5999984741211,
+      "startTimestamp": 1590809271229,
+      "towerId": "48b308be-ce9c-44cb-b135-ff19d2518e67",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 117.08704376220703,
+          "gimbalPitch": -65.0999984741211,
+          "lat": 30.888825714288394,
+          "lon": 117.91908948043879,
+          "yaw": -73
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 127.88207244873047,
+            "gimbalPitch": -90,
+            "lat": 30.888893542422245,
+            "lon": 117.91882925569645,
+            "shootPhoto": 0,
+            "yaw": 111,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.20528411865234,
+            "gimbalPitch": -18.200000762939453,
+            "lat": 30.888906357526558,
+            "lon": 117.91881113296175,
+            "shootPhoto": 1,
+            "yaw": 109.59999999403954,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.2310562133789,
+            "gimbalPitch": -11.800000190734863,
+            "lat": 30.88890537058588,
+            "lon": 117.91882461958042,
+            "shootPhoto": 1,
+            "yaw": 112.19999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 75.06237030029297,
+            "gimbalPitch": -13.800000190734863,
+            "lat": 30.888890675676944,
+            "lon": 117.91881035540534,
+            "shootPhoto": 0,
+            "yaw": 112,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 74.58911895751953,
+            "gimbalPitch": -6.300000190734863,
+            "lat": 30.88887491711653,
+            "lon": 117.91880981576753,
+            "shootPhoto": 1,
+            "yaw": 91.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 74.63966369628906,
+            "gimbalPitch": -6.300000190734863,
+            "lat": 30.888900605693266,
+            "lon": 117.91878966068717,
+            "shootPhoto": 0,
+            "yaw": 100,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 76.95082092285156,
+            "gimbalPitch": -9.600000381469727,
+            "lat": 30.888894635577223,
+            "lon": 117.91883210509555,
+            "shootPhoto": 1,
+            "yaw": 101.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 96.79998016357422,
+            "gimbalPitch": -67.30000305175781,
+            "lat": 30.88890269458355,
+            "lon": 117.91880453597368,
+            "shootPhoto": 0,
+            "yaw": 109,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 99.07859802246094,
+            "gimbalPitch": -87.9000015258789,
+            "lat": 30.888843816478417,
+            "lon": 117.91902624235944,
+            "shootPhoto": 0,
+            "yaw": -64,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 77.26044464111328,
+            "gimbalPitch": -25.299999237060547,
+            "lat": 30.888851483275584,
+            "lon": 117.9189997873276,
+            "shootPhoto": 1,
+            "yaw": -71,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 76.62374877929688,
+            "gimbalPitch": -56.400001525878906,
+            "lat": 30.888839786514612,
+            "lon": 117.91904380928705,
+            "shootPhoto": 0,
+            "yaw": -71,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.81849670410156,
+            "gimbalPitch": -16.899999618530273,
+            "lat": 30.888838464325787,
+            "lon": 117.91904902811449,
+            "shootPhoto": 1,
+            "yaw": -70.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.86820220947266,
+            "gimbalPitch": -6.800000190734863,
+            "lat": 30.88883845004347,
+            "lon": 117.91904760347403,
+            "shootPhoto": 1,
+            "yaw": -72.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.86323547363281,
+            "gimbalPitch": -9,
+            "lat": 30.888827069487462,
+            "lon": 117.91908668420412,
+            "shootPhoto": 0,
+            "yaw": -73,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 105.2918472290039,
+            "gimbalPitch": -65.0999984741211,
+            "lat": 30.888826146446497,
+            "lon": 117.91908971622053,
+            "shootPhoto": 0,
+            "yaw": -73,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 150.94947814941406,
+          "gimbalPitch": 0,
+          "lat": 30.88889921989614,
+          "lon": 117.91894438601072,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "4befea17-448d-49b8-956b-30b4aec428fe",
+      "createdBy": "tljc",
+      "createdAt": 1590809718117,
+      "distanceInM": 444.1581889596052,
+      "durationInS": 213,
+      "images": [
+        {
+          "index": 1,
+          "md5": "ce240196176421fa74a2cc1d8a0ea191"
+        },
+        {
+          "index": 2,
+          "md5": "54c6cb738cfb9812048e81b510d4a8bd"
+        },
+        {
+          "index": 4,
+          "md5": "c555099d10a087c7cedb464fd6269746"
+        },
+        {
+          "index": 6,
+          "md5": "5fd79d0b7b66b565da4afa67b5bb59ad"
+        },
+        {
+          "index": 9,
+          "md5": "b7b527d4c272885bb162a541eacbb787"
+        },
+        {
+          "index": 11,
+          "md5": "654997d6a079a213771990e993a124d2"
+        },
+        {
+          "index": 12,
+          "md5": "7a397acf090677f930afdf117380fdab"
+        }
+      ],
+      "maxAltInM": 96.19999694824219,
+      "startTimestamp": 1590808894661,
+      "towerId": "ac63e027-bc47-4a4f-a1cd-fd093b6b0530",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 101.14765167236328,
+          "gimbalPitch": -54.70000076293945,
+          "lat": 30.887635399726335,
+          "lon": 117.91899050061754,
+          "yaw": -73
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 63.520320892333984,
+            "gimbalPitch": -17.700000762939453,
+            "lat": 30.887730002063233,
+            "lon": 117.9186238321033,
+            "shootPhoto": 0,
+            "yaw": 105,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.999847412109375,
+            "gimbalPitch": -17.100000381469727,
+            "lat": 30.887726596222375,
+            "lon": 117.91864952384836,
+            "shootPhoto": 1,
+            "yaw": 105.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.0639419555664,
+            "gimbalPitch": -7.800000190734863,
+            "lat": 30.887725150220408,
+            "lon": 117.91865288717254,
+            "shootPhoto": 1,
+            "yaw": 105.59999999403954,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.3981704711914,
+            "gimbalPitch": 0,
+            "lat": 30.887709578342758,
+            "lon": 117.91863978415334,
+            "shootPhoto": 0,
+            "yaw": 106,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.40251922607422,
+            "gimbalPitch": 0,
+            "lat": 30.887694147686105,
+            "lon": 117.91864019962047,
+            "shootPhoto": 1,
+            "yaw": 89.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.38370513916016,
+            "gimbalPitch": 0,
+            "lat": 30.887746053257032,
+            "lon": 117.9185706618789,
+            "shootPhoto": 0,
+            "yaw": 105,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.82182312011719,
+            "gimbalPitch": -3.799999952316284,
+            "lat": 30.887721606646384,
+            "lon": 117.91866828978758,
+            "shootPhoto": 1,
+            "yaw": 105.59999999403954,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 84.26144409179688,
+            "gimbalPitch": -57,
+            "lat": 30.88772778122958,
+            "lon": 117.91864193272751,
+            "shootPhoto": 0,
+            "yaw": 108,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 84.51890563964844,
+            "gimbalPitch": -90,
+            "lat": 30.8876745365978,
+            "lon": 117.91883854985971,
+            "shootPhoto": 0,
+            "yaw": -71,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 72.69872283935547,
+            "gimbalPitch": -34.5,
+            "lat": 30.887674841198358,
+            "lon": 117.91883901315208,
+            "shootPhoto": 1,
+            "yaw": -73.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 72.19332885742188,
+            "gimbalPitch": -48,
+            "lat": 30.88766170263388,
+            "lon": 117.91888845202935,
+            "shootPhoto": 0,
+            "yaw": -72,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.244232177734375,
+            "gimbalPitch": -14.699999809265137,
+            "lat": 30.887670004726328,
+            "lon": 117.91885318403565,
+            "shootPhoto": 1,
+            "yaw": -72.20000000298023,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.066734313964844,
+            "gimbalPitch": -15.399999618530273,
+            "lat": 30.88766547433616,
+            "lon": 117.9188767138602,
+            "shootPhoto": 1,
+            "yaw": -73.20000000298023,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 76.15534973144531,
+            "gimbalPitch": -15.399999618530273,
+            "lat": 30.887637765892187,
+            "lon": 117.91898053889743,
+            "shootPhoto": 0,
+            "yaw": -73,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 135.44769287109375,
+          "gimbalPitch": 0,
+          "lat": 30.887778749409254,
+          "lon": 117.91873036940015,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "70b27857-9f49-41a9-9d91-31138a081085",
+      "createdBy": "tljc",
+      "createdAt": 1590809675620,
+      "distanceInM": 451.47940325476566,
+      "durationInS": 306,
+      "images": [
+        {
+          "index": 1,
+          "md5": "9c779e1f8c2391fbbb6dd7272ee80792"
+        },
+        {
+          "index": 2,
+          "md5": "54ca6b95734933fcbdeeba495aa05890"
+        },
+        {
+          "index": 3,
+          "md5": "7c32f061ac17bc0813b56ff71103ae09"
+        },
+        {
+          "index": 5,
+          "md5": "f1da58baddf39d04f2a1a4964e68de29"
+        },
+        {
+          "index": 6,
+          "md5": "7aaef6c6ad9e498d32a1036ca15b7cf1"
+        },
+        {
+          "index": 7,
+          "md5": "a16a6e8c8b64cebd022595a3f1eff1aa"
+        },
+        {
+          "index": 9,
+          "md5": "e381f1824e864ebbbd3ec4859a5225db"
+        },
+        {
+          "index": 10,
+          "md5": "5eb4e573f7965f625e0036a8e404ef77"
+        },
+        {
+          "index": 13,
+          "md5": "70f5e7a640fe789be23123c3ac2e7e3a"
+        },
+        {
+          "index": 15,
+          "md5": "40f8d6d4ed77719a8bb9793d5438b22f"
+        },
+        {
+          "index": 16,
+          "md5": "9786956a74a4f905ac51e6ce9afc54c1"
+        },
+        {
+          "index": 17,
+          "md5": "1bbb0017aeab6edc6952a71e9a041d1b"
+        }
+      ],
+      "maxAltInM": 87.5999984741211,
+      "startTimestamp": 1590808536926,
+      "towerId": "366323ec-e5f3-4a3a-bbd8-0f3773b93cc2",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 91.55461883544922,
+          "gimbalPitch": -56.70000076293945,
+          "lat": 30.88488904124434,
+          "lon": 117.91770742525136,
+          "yaw": -48
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 74.87832641601562,
+            "gimbalPitch": -67.5999984741211,
+            "lat": 30.885067608336097,
+            "lon": 117.91747254183885,
+            "shootPhoto": 0,
+            "yaw": 132,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.19865036010742,
+            "gimbalPitch": -1.100000023841858,
+            "lat": 30.885069163002136,
+            "lon": 117.9174737350875,
+            "shootPhoto": 1,
+            "yaw": 129,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.390254974365234,
+            "gimbalPitch": -19.600000381469727,
+            "lat": 30.885073417485764,
+            "lon": 117.91747636239823,
+            "shootPhoto": 1,
+            "yaw": 107.59999990463257,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 58.89131164550781,
+            "gimbalPitch": 0,
+            "lat": 30.885068698605906,
+            "lon": 117.91746769764126,
+            "shootPhoto": 1,
+            "yaw": 148.70000004768372,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.41449737548828,
+            "gimbalPitch": -15,
+            "lat": 30.88507454887453,
+            "lon": 117.91747089114983,
+            "shootPhoto": 0,
+            "yaw": 133,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.18571472167969,
+            "gimbalPitch": -8.300000190734863,
+            "lat": 30.885040471003585,
+            "lon": 117.91751106291996,
+            "shootPhoto": 1,
+            "yaw": 121.59999990463257,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.53958129882812,
+            "gimbalPitch": -20.100000381469727,
+            "lat": 30.88504761731904,
+            "lon": 117.91751448957194,
+            "shootPhoto": 1,
+            "yaw": 138.89999999850988,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.83721923828125,
+            "gimbalPitch": -13.199999809265137,
+            "lat": 30.885034654777765,
+            "lon": 117.91749581333498,
+            "shootPhoto": 1,
+            "yaw": 137.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.84950256347656,
+            "gimbalPitch": 0,
+            "lat": 30.885056187293312,
+            "lon": 117.91748902797127,
+            "shootPhoto": 0,
+            "yaw": 131,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.28396606445312,
+            "gimbalPitch": -4.900000095367432,
+            "lat": 30.885063560350495,
+            "lon": 117.91748002542128,
+            "shootPhoto": 1,
+            "yaw": 128.39999985694885,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.2417221069336,
+            "gimbalPitch": -4.900000095367432,
+            "lat": 30.88504624431577,
+            "lon": 117.91750141196172,
+            "shootPhoto": 1,
+            "yaw": 128.39999985694885,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 80.5355224609375,
+            "gimbalPitch": -56.5,
+            "lat": 30.885071976333283,
+            "lon": 117.91746865094767,
+            "shootPhoto": 0,
+            "yaw": 131,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 80.59571075439453,
+            "gimbalPitch": -90,
+            "lat": 30.88493484350772,
+            "lon": 117.91764873572707,
+            "shootPhoto": 0,
+            "yaw": -43,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.43748474121094,
+            "gimbalPitch": -7.800000190734863,
+            "lat": 30.88493953726237,
+            "lon": 117.91764032313631,
+            "shootPhoto": 1,
+            "yaw": -44.300000071525574,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.86219787597656,
+            "gimbalPitch": -65.19999694824219,
+            "lat": 30.88492755055157,
+            "lon": 117.91765252022118,
+            "shootPhoto": 0,
+            "yaw": -43,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.47697830200195,
+            "gimbalPitch": -9.100000381469727,
+            "lat": 30.884911662484782,
+            "lon": 117.9176761810326,
+            "shootPhoto": 1,
+            "yaw": -45.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.449623107910156,
+            "gimbalPitch": -9.100000381469727,
+            "lat": 30.884881660105062,
+            "lon": 117.9176338917605,
+            "shootPhoto": 1,
+            "yaw": -21.100000023841858,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.403751373291016,
+            "gimbalPitch": -11.100000381469727,
+            "lat": 30.88494689596449,
+            "lon": 117.91771260367808,
+            "shootPhoto": 1,
+            "yaw": -68.70000004768372,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.399192810058594,
+            "gimbalPitch": -11.100000381469727,
+            "lat": 30.884889097734025,
+            "lon": 117.91770245643431,
+            "shootPhoto": 0,
+            "yaw": -48,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 126.77818298339844,
+          "gimbalPitch": 0,
+          "lat": 30.885117010637334,
+          "lon": 117.9175277756549,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "261a14ca-cb9f-4fb7-88f3-31c4c53d87eb",
+      "createdBy": "tljc",
+      "createdAt": 1590807775051,
+      "distanceInM": 425.98068908132257,
+      "durationInS": 273,
+      "images": [
+        {
+          "index": 2,
+          "md5": "896e015092c2130f6da54a7236222a50"
+        },
+        {
+          "index": 3,
+          "md5": "b8e95d4af9414b790fcc2eeaab883d16"
+        },
+        {
+          "index": 4,
+          "md5": "7695c62d4c249155dc08b1e8dd396887"
+        },
+        {
+          "index": 6,
+          "md5": "63ac7931648023ecc6a1f54fe8ef454a"
+        },
+        {
+          "index": 7,
+          "md5": "a06fe2a90bb789075234c4f416fdf937"
+        },
+        {
+          "index": 8,
+          "md5": "b02b578946b594e6b06502e4fa132bf6"
+        },
+        {
+          "index": 10,
+          "md5": "a754ffa3dfe27edda5b1ea4fb5bfd4bb"
+        },
+        {
+          "index": 11,
+          "md5": "c0e6b911c622282735de4d30ac5efd03"
+        },
+        {
+          "index": 14,
+          "md5": "d6fa4f6d5f1faf0cfb337db41beceea6"
+        },
+        {
+          "index": 16,
+          "md5": "8ad2efa68b2cbb3a1f89cf0898e85af3"
+        },
+        {
+          "index": 17,
+          "md5": "fb3664527d1fe1534f5133432f862b95"
+        },
+        {
+          "index": 18,
+          "md5": "e830e6afa2f15c2da77044189bac2288"
+        }
+      ],
+      "maxAltInM": 77.69999694824219,
+      "startTimestamp": 1590807326098,
+      "towerId": "4cff3973-e8d3-4619-a51f-f5577588bfcd",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 91.8233871459961,
+          "gimbalPitch": -54.599998474121094,
+          "lat": 30.885773557846502,
+          "lon": 117.91775630263967,
+          "yaw": -62
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 87.02108001708984,
+            "gimbalPitch": -79.5,
+            "lat": 30.885914916691654,
+            "lon": 117.91751062845624,
+            "shootPhoto": 0,
+            "yaw": 128,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.32742309570312,
+            "gimbalPitch": -35.900001525878906,
+            "lat": 30.88593678177695,
+            "lon": 117.91746745710834,
+            "shootPhoto": 0,
+            "yaw": 126,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.3026123046875,
+            "gimbalPitch": -6.800000190734863,
+            "lat": 30.885924634478137,
+            "lon": 117.91748803602533,
+            "shootPhoto": 1,
+            "yaw": 116.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.381004333496094,
+            "gimbalPitch": -18.299999237060547,
+            "lat": 30.885939054697225,
+            "lon": 117.91749536515844,
+            "shootPhoto": 1,
+            "yaw": 119.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.348663330078125,
+            "gimbalPitch": -19.799999237060547,
+            "lat": 30.88591467965992,
+            "lon": 117.91747535570046,
+            "shootPhoto": 1,
+            "yaw": 128.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.08122253417969,
+            "gimbalPitch": -19.799999237060547,
+            "lat": 30.885926567829216,
+            "lon": 117.91748532590522,
+            "shootPhoto": 0,
+            "yaw": 127,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.96595001220703,
+            "gimbalPitch": -1.2000000476837158,
+            "lat": 30.885898191381326,
+            "lon": 117.91752865013319,
+            "shootPhoto": 1,
+            "yaw": 120.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.01070404052734,
+            "gimbalPitch": -2.799999952316284,
+            "lat": 30.88591694055144,
+            "lon": 117.91753242290054,
+            "shootPhoto": 1,
+            "yaw": 118.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.9671859741211,
+            "gimbalPitch": -4.800000190734863,
+            "lat": 30.88589477781107,
+            "lon": 117.91751291111841,
+            "shootPhoto": 1,
+            "yaw": 116.79999995231628,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.38985443115234,
+            "gimbalPitch": 0,
+            "lat": 30.885900580023232,
+            "lon": 117.91749691106145,
+            "shootPhoto": 0,
+            "yaw": 116,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.18707275390625,
+            "gimbalPitch": -11.300000190734863,
+            "lat": 30.885905133612926,
+            "lon": 117.9174868278222,
+            "shootPhoto": 1,
+            "yaw": 113.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.90412902832031,
+            "gimbalPitch": -11.300000190734863,
+            "lat": 30.885894090594817,
+            "lon": 117.91752161968714,
+            "shootPhoto": 1,
+            "yaw": 118.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.1102066040039,
+            "gimbalPitch": -56.29999923706055,
+            "lat": 30.885906406462098,
+            "lon": 117.91749665071443,
+            "shootPhoto": 0,
+            "yaw": 118,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.10918426513672,
+            "gimbalPitch": -90,
+            "lat": 30.885808868517245,
+            "lon": 117.91767615042686,
+            "shootPhoto": 0,
+            "yaw": -51,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 71.30279541015625,
+            "gimbalPitch": -24.600000381469727,
+            "lat": 30.885811716749895,
+            "lon": 117.91767688261248,
+            "shootPhoto": 1,
+            "yaw": -55.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.13906860351562,
+            "gimbalPitch": -74.4000015258789,
+            "lat": 30.885802263324152,
+            "lon": 117.91769337213077,
+            "shootPhoto": 0,
+            "yaw": -56,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.15254211425781,
+            "gimbalPitch": -8.899999618530273,
+            "lat": 30.885790299737447,
+            "lon": 117.9177157400091,
+            "shootPhoto": 1,
+            "yaw": -56.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.89047622680664,
+            "gimbalPitch": -21.100000381469727,
+            "lat": 30.885757228038027,
+            "lon": 117.91768775981296,
+            "shootPhoto": 1,
+            "yaw": -40.90000003576279,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.98247146606445,
+            "gimbalPitch": -5.599999904632568,
+            "lat": 30.885819082933594,
+            "lon": 117.91774272659987,
+            "shootPhoto": 1,
+            "yaw": -70.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.34746551513672,
+            "gimbalPitch": -5.599999904632568,
+            "lat": 30.885782078014714,
+            "lon": 117.91775074686413,
+            "shootPhoto": 0,
+            "yaw": -62,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 116.83143615722656,
+          "gimbalPitch": 0,
+          "lat": 30.885916956601612,
+          "lon": 117.91747902071492,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "ff5b7798-bbb7-4bdf-bb86-7475a22f08d2",
+      "createdBy": "tljc",
+      "createdAt": 1590806237723,
+      "distanceInM": 481.305718770084,
+      "durationInS": 260,
+      "images": [
+        {
+          "index": 1,
+          "md5": "3a5739f3ab4c6e28ed3f4bc58e1e6c15"
+        },
+        {
+          "index": 2,
+          "md5": "8d2e635a899f3eb732c3d7dfa661f17d"
+        },
+        {
+          "index": 3,
+          "md5": "0c8c190f0fd49dc526634243a6e86a0d"
+        },
+        {
+          "index": 5,
+          "md5": "7ec4145836045bd3a9f4b59772452f74"
+        },
+        {
+          "index": 6,
+          "md5": "6cde9269f218d9773c0099adff632d73"
+        },
+        {
+          "index": 7,
+          "md5": "b2ad43f8610cebb9a8b2002e2ce9e127"
+        },
+        {
+          "index": 9,
+          "md5": "1e1eb4c3d646a093d87c75036732c8aa"
+        },
+        {
+          "index": 10,
+          "md5": "ce578e2b6309475b57a6dfe3b1c6b451"
+        },
+        {
+          "index": 13,
+          "md5": "937b15e2ef1edf299927008e5ae5a24e"
+        },
+        {
+          "index": 15,
+          "md5": "9436ea17d9bb30364a8b0a2edf76b2bd"
+        },
+        {
+          "index": 16,
+          "md5": "459079152a229917701b33fe730a5e9e"
+        },
+        {
+          "index": 17,
+          "md5": "718d10bb03857aacafb698e554c97d56"
+        }
+      ],
+      "maxAltInM": 84.9000015258789,
+      "startTimestamp": 1590805774849,
+      "towerId": "4cff3973-e8d3-4619-a51f-f5577588bfcd",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 94.24238586425781,
+          "gimbalPitch": -52,
+          "lat": 30.88577464879115,
+          "lon": 117.91775289082314,
+          "yaw": -52
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 110.38865661621094,
+            "gimbalPitch": -76.30000305175781,
+            "lat": 30.885920976296646,
+            "lon": 117.91748686717685,
+            "shootPhoto": 0,
+            "yaw": 132,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.26066589355469,
+            "gimbalPitch": -6.800000190734863,
+            "lat": 30.88592733707506,
+            "lon": 117.91748186533181,
+            "shootPhoto": 1,
+            "yaw": 116.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.35276412963867,
+            "gimbalPitch": -17.399999618530273,
+            "lat": 30.885937080533225,
+            "lon": 117.91749104652263,
+            "shootPhoto": 1,
+            "yaw": 118.69999980926514,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.392784118652344,
+            "gimbalPitch": -17.399999618530273,
+            "lat": 30.885924861221103,
+            "lon": 117.91748015751351,
+            "shootPhoto": 1,
+            "yaw": 132.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.21995544433594,
+            "gimbalPitch": 0,
+            "lat": 30.885924036723395,
+            "lon": 117.91747891276269,
+            "shootPhoto": 0,
+            "yaw": 134,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.14695739746094,
+            "gimbalPitch": 0,
+            "lat": 30.885891048753177,
+            "lon": 117.917524923512,
+            "shootPhoto": 1,
+            "yaw": 119.09999942779541,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.16661834716797,
+            "gimbalPitch": 0,
+            "lat": 30.885890821317965,
+            "lon": 117.91752546758771,
+            "shootPhoto": 1,
+            "yaw": 104.89999961853027,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.17914581298828,
+            "gimbalPitch": -0.5,
+            "lat": 30.88588904510028,
+            "lon": 117.91751241330705,
+            "shootPhoto": 1,
+            "yaw": 128.69999980926514,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.18666076660156,
+            "gimbalPitch": 0,
+            "lat": 30.88590587723559,
+            "lon": 117.9174979324373,
+            "shootPhoto": 0,
+            "yaw": 130,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.06541442871094,
+            "gimbalPitch": -4.699999809265137,
+            "lat": 30.88591420959024,
+            "lon": 117.91748746563509,
+            "shootPhoto": 1,
+            "yaw": 120.89999961853027,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.73590850830078,
+            "gimbalPitch": -11.300000190734863,
+            "lat": 30.885894630987387,
+            "lon": 117.91752392925385,
+            "shootPhoto": 1,
+            "yaw": 120.89999961853027,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 86.44611358642578,
+            "gimbalPitch": -46.599998474121094,
+            "lat": 30.88590659754525,
+            "lon": 117.91750827164815,
+            "shootPhoto": 0,
+            "yaw": 130,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 86.44941711425781,
+            "gimbalPitch": -89.9000015258789,
+            "lat": 30.885781933587747,
+            "lon": 117.91769611849692,
+            "shootPhoto": 0,
+            "yaw": -44,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.2356948852539,
+            "gimbalPitch": -10.5,
+            "lat": 30.88580561802371,
+            "lon": 117.91768575067702,
+            "shootPhoto": 1,
+            "yaw": -56.80000019073486,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.11221313476562,
+            "gimbalPitch": -46.599998474121094,
+            "lat": 30.885765078755696,
+            "lon": 117.91773760056192,
+            "shootPhoto": 0,
+            "yaw": -48,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.03205490112305,
+            "gimbalPitch": -2.5,
+            "lat": 30.885782213980995,
+            "lon": 117.91773113118164,
+            "shootPhoto": 1,
+            "yaw": -58.10000038146973,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.83858871459961,
+            "gimbalPitch": -12.300000190734863,
+            "lat": 30.88574500285437,
+            "lon": 117.91769620603947,
+            "shootPhoto": 1,
+            "yaw": -41.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.35908126831055,
+            "gimbalPitch": -10.199999809265137,
+            "lat": 30.885811857402363,
+            "lon": 117.91775830907962,
+            "shootPhoto": 1,
+            "yaw": -69.60000038146973,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.38105392456055,
+            "gimbalPitch": -10.199999809265137,
+            "lat": 30.885775278597468,
+            "lon": 117.91775045833467,
+            "shootPhoto": 0,
+            "yaw": -55,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 124.20388793945312,
+          "gimbalPitch": 0,
+          "lat": 30.885920722648994,
+          "lon": 117.91748670041693,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "d27c24d5-6775-4888-9933-f22ba51e575b",
+      "createdBy": "tljc",
+      "createdAt": 1590804584175,
+      "distanceInM": 473.18948850537356,
+      "durationInS": 405,
+      "images": [
+        {
+          "index": 2,
+          "md5": "aa07c93e112a90d5d8dd746281d8e2e8"
+        },
+        {
+          "index": 3,
+          "md5": "5e4a4ba706063f58d8b9e7e0cf5670b9"
+        },
+        {
+          "index": 4,
+          "md5": "56a9c93afd267ca1a69936cdabc68ef5"
+        },
+        {
+          "index": 6,
+          "md5": "3d1f6ddf0589db70ef38e831d362f87d"
+        },
+        {
+          "index": 7,
+          "md5": "5d9e547412348502e4d12fbbc3c26d70"
+        },
+        {
+          "index": 8,
+          "md5": "c42a3e28ee1c856765d0e53d6e08d86a"
+        },
+        {
+          "index": 9,
+          "md5": "23c7123f9d5294691412ee6f2e6c1819"
+        },
+        {
+          "index": 11,
+          "md5": "5ec4b169ba266d99b7822b016cc94865"
+        },
+        {
+          "index": 12,
+          "md5": "4ffdb269d1cc71cde899c084b0678610"
+        },
+        {
+          "index": 16,
+          "md5": "6e923ad48cde035a53ed086d253ca0fb"
+        },
+        {
+          "index": 18,
+          "md5": "a5f7b22becff2d74d376d3f24b80a10c"
+        },
+        {
+          "index": 19,
+          "md5": "96e06dc46771d9d52ece7b14eb9a50cd"
+        },
+        {
+          "index": 20,
+          "md5": "dce2d6225fef661936dc41b9591d1097"
+        }
+      ],
+      "maxAltInM": 83.5,
+      "startTimestamp": 1590804003592,
+      "towerId": "4cff3973-e8d3-4619-a51f-f5577588bfcd",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 97.86064910888672,
+          "gimbalPitch": -71.0999984741211,
+          "lat": 30.88489622692886,
+          "lon": 117.91771365789005,
+          "yaw": -50
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 109.3377685546875,
+            "gimbalPitch": -69.30000305175781,
+            "lat": 30.885113494852053,
+            "lon": 117.91742828448102,
+            "shootPhoto": 0,
+            "yaw": 134,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.85437774658203,
+            "gimbalPitch": -31.399999618530273,
+            "lat": 30.885113983286523,
+            "lon": 117.91742737198028,
+            "shootPhoto": 0,
+            "yaw": 134,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.125247955322266,
+            "gimbalPitch": -8.300000190734863,
+            "lat": 30.885076801793304,
+            "lon": 117.91747014942516,
+            "shootPhoto": 1,
+            "yaw": 133,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.18873596191406,
+            "gimbalPitch": -19.799999237060547,
+            "lat": 30.885076501228482,
+            "lon": 117.91747092264814,
+            "shootPhoto": 1,
+            "yaw": 112.89999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 58.77143096923828,
+            "gimbalPitch": 0,
+            "lat": 30.885080457837475,
+            "lon": 117.91745370309465,
+            "shootPhoto": 1,
+            "yaw": 150,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.04290008544922,
+            "gimbalPitch": -1.100000023841858,
+            "lat": 30.88508995905451,
+            "lon": 117.91746412597901,
+            "shootPhoto": 0,
+            "yaw": 141,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.15209197998047,
+            "gimbalPitch": -3.5,
+            "lat": 30.885062514519245,
+            "lon": 117.91748226439931,
+            "shootPhoto": 1,
+            "yaw": 131.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.04412841796875,
+            "gimbalPitch": 0,
+            "lat": 30.88504506837248,
+            "lon": 117.91750512057497,
+            "shootPhoto": 1,
+            "yaw": 130.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.49373626708984,
+            "gimbalPitch": -1.2000000476837158,
+            "lat": 30.885048640095597,
+            "lon": 117.91750863896591,
+            "shootPhoto": 1,
+            "yaw": 113,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.59850311279297,
+            "gimbalPitch": -1.5,
+            "lat": 30.885045067354984,
+            "lon": 117.91749614808954,
+            "shootPhoto": 1,
+            "yaw": 150,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.61448669433594,
+            "gimbalPitch": -7.300000190734863,
+            "lat": 30.88508322517865,
+            "lon": 117.9174769067194,
+            "shootPhoto": 0,
+            "yaw": 140,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.1875,
+            "gimbalPitch": 0,
+            "lat": 30.885063674463115,
+            "lon": 117.9174888890018,
+            "shootPhoto": 1,
+            "yaw": 134.59999999403954,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.66876220703125,
+            "gimbalPitch": 0,
+            "lat": 30.885049364124573,
+            "lon": 117.9175047399954,
+            "shootPhoto": 1,
+            "yaw": 134.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.04419708251953,
+            "gimbalPitch": 0,
+            "lat": 30.88505740928467,
+            "lon": 117.91749517422919,
+            "shootPhoto": 0,
+            "yaw": 135,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 83.85302734375,
+            "gimbalPitch": -63.400001525878906,
+            "lat": 30.885058080917663,
+            "lon": 117.91749453540476,
+            "shootPhoto": 0,
+            "yaw": 135,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 84.06513214111328,
+            "gimbalPitch": -89.9000015258789,
+            "lat": 30.884935651024314,
+            "lon": 117.91764237273446,
+            "shootPhoto": 0,
+            "yaw": -49,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.74152374267578,
+            "gimbalPitch": -11.699999809265137,
+            "lat": 30.884935285884307,
+            "lon": 117.91764039212067,
+            "shootPhoto": 1,
+            "yaw": -45.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.03466796875,
+            "gimbalPitch": -50.70000076293945,
+            "lat": 30.884916526157,
+            "lon": 117.91766521245475,
+            "shootPhoto": 0,
+            "yaw": -45,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.63114547729492,
+            "gimbalPitch": -1.899999976158142,
+            "lat": 30.884911261211307,
+            "lon": 117.91767141397689,
+            "shootPhoto": 1,
+            "yaw": -44.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.78697967529297,
+            "gimbalPitch": -1.899999976158142,
+            "lat": 30.88488346094818,
+            "lon": 117.91763643824217,
+            "shootPhoto": 1,
+            "yaw": -28.399999976158142,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.023677825927734,
+            "gimbalPitch": -7.599999904632568,
+            "lat": 30.884941677119222,
+            "lon": 117.91770868584246,
+            "shootPhoto": 1,
+            "yaw": -60.599999994039536,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.99639892578125,
+            "gimbalPitch": -7.599999904632568,
+            "lat": 30.884898432066073,
+            "lon": 117.91770971251866,
+            "shootPhoto": 0,
+            "yaw": -50,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 120.37881469726562,
+          "gimbalPitch": 0,
+          "lat": 30.885113242652274,
+          "lon": 117.91742713001399,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "4d9e7b42-33dc-4fa5-852c-3cc4575462bb",
+      "createdBy": "dyadmin",
+      "createdAt": 1590303670973,
+      "distanceInM": 415.50313396523103,
+      "durationInS": 25,
+      "images": [
+        {
+          "index": 0,
+          "md5": "5cfe7dad36a5e2349068a55b39d261fb"
+        },
+        {
+          "index": 1,
+          "md5": "130fe8525169473fa4b72be4bb97c34b"
+        }
+      ],
+      "maxAltInM": 160,
+      "startTimestamp": 1590303199067,
+      "towerId": "e722d90c-6126-40ab-83c3-565bb0e7f420",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 194.52056884765625,
+          "gimbalPitch": -77.30000305175781,
+          "lat": 30.892945759663423,
+          "lon": 117.93014457656719,
+          "yaw": -50.60000038146973
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 194.48635864257812,
+            "gimbalPitch": -77.30000305175781,
+            "lat": 30.892945696642297,
+            "lon": 117.93014452346112,
+            "shootPhoto": 0,
+            "yaw": -67,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 197.56173706054688,
+          "gimbalPitch": 0,
+          "lat": 30.893077165113443,
+          "lon": 117.92999906158157,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "9ea19a81-73b9-4759-b8da-6a5ed400350f",
+      "createdBy": "dyadmin",
+      "createdAt": 1590303658775,
+      "distanceInM": 413.7966955225412,
+      "durationInS": 18,
+      "images": [
+        {
+          "index": 0,
+          "md5": "4a436d52dbdad7fc06b287b363908782"
+        },
+        {
+          "index": 0,
+          "md5": "e6274be2b86f36bf35a55a0f70a8f91e"
+        }
+      ],
+      "maxAltInM": 157.1999969482422,
+      "startTimestamp": 1590303262602,
+      "towerId": "0af18cc9-6507-43e9-b6d8-655ca0e17843",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 194.6630859375,
+          "gimbalPitch": -63.70000076293945,
+          "lat": 30.89424349625055,
+          "lon": 117.92872879466651,
+          "yaw": 20
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 194.463623046875,
+            "gimbalPitch": -63.70000076293945,
+            "lat": 30.894244061897737,
+            "lon": 117.92872869954356,
+            "shootPhoto": 1,
+            "yaw": 34.19999980926514,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 194.6167755126953,
+          "gimbalPitch": 0,
+          "lat": 30.894137343487284,
+          "lon": 117.9289538368165,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "e8d8b763-2c2d-4022-aa68-98033e1c9d7b",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302749690,
+      "distanceInM": 351.75332426185975,
+      "durationInS": 23,
+      "images": [
+        {
+          "index": 0,
+          "md5": "19e1d8d4bc9cfa754627c2614c2a2c90"
+        },
+        {
+          "index": 1,
+          "md5": "a9730adbd04cf1e264d5f5086704afb4"
+        }
+      ],
+      "maxAltInM": 142.89999389648438,
+      "startTimestamp": 1590302408190,
+      "towerId": "89a5deb0-b639-4137-ab3a-93e71d3a3a30",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 177.6724853515625,
+          "gimbalPitch": -81,
+          "lat": 30.87702557087631,
+          "lon": 117.900672797679,
+          "yaw": -72
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 162.34437561035156,
+            "gimbalPitch": -77.5999984741211,
+            "lat": 30.877014852209204,
+            "lon": 117.90066794524758,
+            "shootPhoto": 1,
+            "yaw": -69.19999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 175.16668701171875,
+            "gimbalPitch": -81,
+            "lat": 30.877025579350015,
+            "lon": 117.90067281749428,
+            "shootPhoto": 1,
+            "yaw": -69,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 163.59568786621094,
+          "gimbalPitch": 0,
+          "lat": 30.877012250966814,
+          "lon": 117.90066746994569,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "1030e758-30de-46b4-877b-4cec799e6b1d",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302738433,
+      "distanceInM": 357.1121360075481,
+      "durationInS": 22,
+      "images": [
+        {
+          "index": 0,
+          "md5": "e73b904b396aa753e5d827f1e851a70f"
+        },
+        {
+          "index": 1,
+          "md5": "7a02070dfc19111e7339067bd96cdc6d"
+        }
+      ],
+      "maxAltInM": 128.3000030517578,
+      "startTimestamp": 1590302343085,
+      "towerId": "010e654f-3f74-47ea-a81c-ce044a7a965c",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 157.4093017578125,
+          "gimbalPitch": -76.9000015258789,
+          "lat": 30.87622707942021,
+          "lon": 117.90360798015598,
+          "yaw": -75
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 160.0062255859375,
+            "gimbalPitch": -86.5999984741211,
+            "lat": 30.876216541094443,
+            "lon": 117.90361272767429,
+            "shootPhoto": 1,
+            "yaw": -72.19999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 150.59146118164062,
+            "gimbalPitch": -86.0999984741211,
+            "lat": 30.876228183888657,
+            "lon": 117.90360693306457,
+            "shootPhoto": 1,
+            "yaw": -71.59999990463257,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 165.8994140625,
+          "gimbalPitch": 0,
+          "lat": 30.87619315237182,
+          "lon": 117.90360476446007,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "b446fa14-0ffd-4fd9-b2a2-0d44e5e67c8e",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302725987,
+      "distanceInM": 352.1954867568868,
+      "durationInS": 19,
+      "images": [
+        {
+          "index": 0,
+          "md5": "001c69e8ada1ec7e406e29b37c9b589e"
+        },
+        {
+          "index": 1,
+          "md5": "a0d73acc043c4035183f1bdb6951248f"
+        }
+      ],
+      "maxAltInM": 126.5,
+      "startTimestamp": 1590302280290,
+      "towerId": "f52c1369-3d0f-4b4d-bc1f-2d2152cb9fb4",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 156.37515258789062,
+          "gimbalPitch": -85.9000015258789,
+          "lat": 30.875367832824104,
+          "lon": 117.90697411707559,
+          "yaw": -73
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 156.2525177001953,
+            "gimbalPitch": -83.19999694824219,
+            "lat": 30.875358264246866,
+            "lon": 117.90703859794405,
+            "shootPhoto": 1,
+            "yaw": -70,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 151.97206115722656,
+            "gimbalPitch": -85.9000015258789,
+            "lat": 30.8753677235219,
+            "lon": 117.90697498455017,
+            "shootPhoto": 1,
+            "yaw": -71.19999992847443,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 164.9121551513672,
+          "gimbalPitch": 0,
+          "lat": 30.87532465826604,
+          "lon": 117.90703279039458,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "de0680ee-9762-42c4-8bb2-a00cc00ede3d",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302713457,
+      "distanceInM": 337.3759330554755,
+      "durationInS": 30,
+      "images": [
+        {
+          "index": 0,
+          "md5": "8d6e8a2eaa725a02f9c55fb3f1ecfbec"
+        },
+        {
+          "index": 0,
+          "md5": "baccec8276781b2b40754a12b4a4f82a"
+        }
+      ],
+      "maxAltInM": 128.5,
+      "startTimestamp": 1590302165989,
+      "towerId": "f64cbbd4-a97a-4dca-b44c-c01a7e1aafe1",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 166.0218505859375,
+          "gimbalPitch": -85.69999694824219,
+          "lat": 30.87456600894544,
+          "lon": 117.90989138373506,
+          "yaw": -131.59999990463257
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 162.69398498535156,
+            "gimbalPitch": -87.5999984741211,
+            "lat": 30.87461770338666,
+            "lon": 117.90990582341476,
+            "shootPhoto": 1,
+            "yaw": -131.89999985694885,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 166.1321563720703,
+            "gimbalPitch": -78.69999694824219,
+            "lat": 30.87458223642197,
+            "lon": 117.90993556647166,
+            "shootPhoto": 0,
+            "yaw": 62,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 162.313232421875,
+          "gimbalPitch": 0,
+          "lat": 30.87463116068308,
+          "lon": 117.90991983977277,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "19f2ccd5-8516-4dbe-8df3-079a11f0efbd",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302699880,
+      "distanceInM": 390.187437117129,
+      "durationInS": 24,
+      "images": [
+        {
+          "index": 0,
+          "md5": "6f1e99af36902ecde5dcadebbb5c47cb"
+        },
+        {
+          "index": 1,
+          "md5": "66f6ce45b916a2c56418a058e6cbcbe8"
+        }
+      ],
+      "maxAltInM": 138.89999389648438,
+      "startTimestamp": 1590301887513,
+      "towerId": "7227dfbd-d66f-46d4-8d13-fa7f2c45254a",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 171.25669860839844,
+          "gimbalPitch": -84.5,
+          "lat": 30.879067649137802,
+          "lon": 117.91812182982127,
+          "yaw": 127
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 168.90672302246094,
+            "gimbalPitch": -76.5,
+            "lat": 30.879135310643004,
+            "lon": 117.91804218622242,
+            "shootPhoto": 1,
+            "yaw": 126.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 165.24411010742188,
+            "gimbalPitch": -84.5,
+            "lat": 30.879068657521298,
+            "lon": 117.91812180528615,
+            "shootPhoto": 1,
+            "yaw": 126.59999999403954,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 176.48931884765625,
+          "gimbalPitch": 0,
+          "lat": 30.879222271140797,
+          "lon": 117.91795360836015,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "c19dd495-f106-4783-8607-73511e696023",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302686350,
+      "distanceInM": 362.7562729712101,
+      "durationInS": 25,
+      "images": [
+        {
+          "index": 0,
+          "md5": "b7a9014e302e42a7824f3176f337a96c"
+        },
+        {
+          "index": 0,
+          "md5": "bb5673fe1342a2ce0647491cc0ae68b1"
+        }
+      ],
+      "maxAltInM": 138.89999389648438,
+      "startTimestamp": 1590301819474,
+      "towerId": "993b3da5-e2e2-40f3-9e81-76f6ee3cc9e6",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 170.2486572265625,
+          "gimbalPitch": -87.19999694824219,
+          "lat": 30.880226653662145,
+          "lon": 117.91632205320263,
+          "yaw": 128.89999999850988
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 162.8245849609375,
+            "gimbalPitch": -86,
+            "lat": 30.880242635831973,
+            "lon": 117.91629638104942,
+            "shootPhoto": 1,
+            "yaw": 128.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 176.22259521484375,
+            "gimbalPitch": -87.19999694824219,
+            "lat": 30.880200570108048,
+            "lon": 117.91636277294806,
+            "shootPhoto": 0,
+            "yaw": 129,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 162.83819580078125,
+          "gimbalPitch": 0,
+          "lat": 30.880308479098456,
+          "lon": 117.91623833107643,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "d7ccc6a1-aa47-48ca-a16b-f834f3460215",
+      "createdBy": "dyadmin",
+      "createdAt": 1590302672842,
+      "distanceInM": 294.14821790129326,
+      "durationInS": 28,
+      "images": [
+        {
+          "index": 0,
+          "md5": "53810dbac21b3938cbcb2394fb894a48"
+        },
+        {
+          "index": 0,
+          "md5": "6da643f744059b731908850bf80a6fbb"
+        }
+      ],
+      "maxAltInM": 124.9000015258789,
+      "startTimestamp": 1590301712000,
+      "towerId": "824571bc-e522-415e-9255-b6d2774a4957",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 158.20550537109375,
+          "gimbalPitch": -87.0999984741211,
+          "lat": 30.88198175471605,
+          "lon": 117.91346573021181,
+          "yaw": 126.5
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 149.74688720703125,
+            "gimbalPitch": -85.30000305175781,
+            "lat": 30.882050822862638,
+            "lon": 117.91338579058896,
+            "shootPhoto": 1,
+            "yaw": 132,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 143.88031005859375,
+          "gimbalPitch": 0,
+          "lat": 30.882066597885295,
+          "lon": 117.91340486269081,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "f3879996-9793-4205-98dd-6c61db8a68e8",
+      "createdBy": "dyadmin",
+      "createdAt": 1590133764125,
+      "distanceInM": 1647.446830019926,
+      "durationInS": 216,
+      "images": [
+        {
+          "index": 0,
+          "md5": "37c2cbc4432639179250f382232ce120"
+        },
+        {
+          "index": 1,
+          "md5": "848cd11279c34ff83ff6dc52f3c5abf6"
+        },
+        {
+          "index": 2,
+          "md5": "76e04a3addd07080a46c483a8a45f950"
+        },
+        {
+          "index": 3,
+          "md5": "eaa1fac644d746aa59554ae6ac397bed"
+        },
+        {
+          "index": 5,
+          "md5": "01a72d1c3de68f0f422a447eced9efb3"
+        },
+        {
+          "index": 6,
+          "md5": "1357201e0760c0d4ab1b5e9883eef69c"
+        },
+        {
+          "index": 6,
+          "md5": "2f91edc852c07e6af6e1ee360b963490"
+        }
+      ],
+      "maxAltInM": 95,
+      "startTimestamp": 1590133557471,
+      "towerId": "05f58fb4-51d8-4d08-a0fc-e93c3081812e",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 132.28076171875,
+          "gimbalPitch": -42.20000076293945,
+          "lat": 30.890706376835574,
+          "lon": 117.90808384766807,
+          "yaw": 140
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 126.77117919921875,
+            "gimbalPitch": -36.29999923706055,
+            "lat": 30.889822450293508,
+            "lon": 117.90912211526262,
+            "shootPhoto": 1,
+            "yaw": -47.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 126.81525421142578,
+            "gimbalPitch": -30.399999618530273,
+            "lat": 30.8906886818202,
+            "lon": 117.90808860423547,
+            "shootPhoto": 1,
+            "yaw": -43.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 132.41268920898438,
+            "gimbalPitch": -30.799999237060547,
+            "lat": 30.891237219051142,
+            "lon": 117.90755006801344,
+            "shootPhoto": 1,
+            "yaw": -45.300000071525574,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 132.4290313720703,
+            "gimbalPitch": -30.799999237060547,
+            "lat": 30.89246421900464,
+            "lon": 117.90606974061947,
+            "shootPhoto": 1,
+            "yaw": -61.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 132.39059448242188,
+            "gimbalPitch": -56,
+            "lat": 30.8925428486824,
+            "lon": 117.90324897444648,
+            "shootPhoto": 0,
+            "yaw": -162,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 132.15834045410156,
+            "gimbalPitch": -48.599998474121094,
+            "lat": 30.89197498005303,
+            "lon": 117.90444785413825,
+            "shootPhoto": 1,
+            "yaw": 104.89999999850988,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 132.1392364501953,
+            "gimbalPitch": -45.20000076293945,
+            "lat": 30.89135251987088,
+            "lon": 117.90636507531268,
+            "shootPhoto": 1,
+            "yaw": 109.60000002384186,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 126.99723052978516,
+          "gimbalPitch": 0,
+          "lat": 30.88934611109894,
+          "lon": 117.90962517232138,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "ec1cd13b-c7d1-4963-8cd4-e14f397f3c9a",
+      "createdBy": "dyadmin",
+      "createdAt": 1590119019577,
+      "distanceInM": 384.10785821143605,
+      "durationInS": 346,
+      "images": [
+        {
+          "index": 0,
+          "md5": "2a81ea434d0108d0ee213a23158f3165"
+        },
+        {
+          "index": 1,
+          "md5": "40276aed17541bc1ce31acb36a62689f"
+        },
+        {
+          "index": 2,
+          "md5": "37787642afd30d983a24b6b5065c4d02"
+        },
+        {
+          "index": 4,
+          "md5": "79bd0a026a7dc203bd9715cb2120162e"
+        },
+        {
+          "index": 5,
+          "md5": "bb24f28e61b027c1514443f6dd811e1c"
+        },
+        {
+          "index": 6,
+          "md5": "be765029d3c9e3fa09a788f271398865"
+        },
+        {
+          "index": 7,
+          "md5": "df2f28c5f1192eee8392411e6f781fc9"
+        },
+        {
+          "index": 8,
+          "md5": "839317f87a984b81681bc6f0207760d6"
+        },
+        {
+          "index": 9,
+          "md5": "87c8f08ce94ffb43c4e239b132d3fde6"
+        },
+        {
+          "index": 12,
+          "md5": "c7b1863aceaec91b054b75027ff0fd96"
+        },
+        {
+          "index": 13,
+          "md5": "6d936253a8d2d35fda1e6a5402c0441a"
+        },
+        {
+          "index": 14,
+          "md5": "1d0ea020e53241f915d3462135bc4099"
+        },
+        {
+          "index": 15,
+          "md5": "71f4ac44b2ab6f557d993b2805b195f8"
+        }
+      ],
+      "maxAltInM": 71.9000015258789,
+      "startTimestamp": 1590118425713,
+      "towerId": "8f474154-7558-4fe6-979a-0c87beb90746",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 105.17951202392578,
+          "gimbalPitch": -33,
+          "lat": 30.88488360794422,
+          "lon": 117.91769088891279,
+          "yaw": -38
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 59.989471435546875,
+            "gimbalPitch": -17.600000381469727,
+            "lat": 30.88505924804836,
+            "lon": 117.91746887211278,
+            "shootPhoto": 1,
+            "yaw": 128.7999997138977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.93160629272461,
+            "gimbalPitch": -21.5,
+            "lat": 30.885072337335156,
+            "lon": 117.91748019687024,
+            "shootPhoto": 1,
+            "yaw": 123.40000009536743,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.02743148803711,
+            "gimbalPitch": -23.299999237060547,
+            "lat": 30.88505144079018,
+            "lon": 117.91745809928685,
+            "shootPhoto": 1,
+            "yaw": 135.09999990463257,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.466331481933594,
+            "gimbalPitch": 0,
+            "lat": 30.885049857686706,
+            "lon": 117.91748606557339,
+            "shootPhoto": 0,
+            "yaw": 137,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.51027297973633,
+            "gimbalPitch": 0,
+            "lat": 30.88503183684182,
+            "lon": 117.9175050370546,
+            "shootPhoto": 1,
+            "yaw": 130.89999961853027,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.30850601196289,
+            "gimbalPitch": -7.5,
+            "lat": 30.885039107756477,
+            "lon": 117.91752665982317,
+            "shootPhoto": 1,
+            "yaw": 125.80000019073486,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.26340866088867,
+            "gimbalPitch": -8.199999809265137,
+            "lat": 30.885022133239325,
+            "lon": 117.9175020844499,
+            "shootPhoto": 1,
+            "yaw": 139,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.20860290527344,
+            "gimbalPitch": -4.599999904632568,
+            "lat": 30.88503524642297,
+            "lon": 117.91750272490565,
+            "shootPhoto": 1,
+            "yaw": 128,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.65988159179688,
+            "gimbalPitch": -4.599999904632568,
+            "lat": 30.885055512055928,
+            "lon": 117.91747784702248,
+            "shootPhoto": 1,
+            "yaw": 128.09999990463257,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.4254150390625,
+            "gimbalPitch": -14.5,
+            "lat": 30.88503758621554,
+            "lon": 117.91750217899178,
+            "shootPhoto": 1,
+            "yaw": 130.40000009536743,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 86.82120513916016,
+            "gimbalPitch": -14.5,
+            "lat": 30.885039854803537,
+            "lon": 117.91749798643505,
+            "shootPhoto": 0,
+            "yaw": 137,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 89.357177734375,
+            "gimbalPitch": -72.69999694824219,
+            "lat": 30.88495284851081,
+            "lon": 117.91759145922991,
+            "shootPhoto": 0,
+            "yaw": -41,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.63018798828125,
+            "gimbalPitch": -35,
+            "lat": 30.88493384871174,
+            "lon": 117.91763699769304,
+            "shootPhoto": 1,
+            "yaw": -43.10000014305115,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.174278259277344,
+            "gimbalPitch": -31.5,
+            "lat": 30.8849028786785,
+            "lon": 117.91767481410226,
+            "shootPhoto": 1,
+            "yaw": -44.10000014305115,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.2022590637207,
+            "gimbalPitch": -33,
+            "lat": 30.88488565285599,
+            "lon": 117.91765340126355,
+            "shootPhoto": 1,
+            "yaw": -39.200000047683716,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.18687057495117,
+            "gimbalPitch": -33,
+            "lat": 30.884917442754364,
+            "lon": 117.91768359628831,
+            "shootPhoto": 1,
+            "yaw": -39.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 94.15696716308594,
+            "gimbalPitch": -33,
+            "lat": 30.88488294218178,
+            "lon": 117.91769040085697,
+            "shootPhoto": 0,
+            "yaw": -38,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 108.11919403076172,
+          "gimbalPitch": 0,
+          "lat": 30.88510766022152,
+          "lon": 117.91740940999324,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "789145a0-1283-4fd8-b192-a187b6d0eaea",
+      "createdBy": "dyadmin",
+      "createdAt": 1590117554968,
+      "distanceInM": 335.13548373769413,
+      "durationInS": 451,
+      "images": [],
+      "maxAltInM": 70.19999694824219,
+      "startTimestamp": 1590117094663,
+      "towerId": "250b37d3-9901-4a6a-b720-c05fa84242cc",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 61.807376861572266,
+          "gimbalPitch": -41.5,
+          "lat": 30.885797055069087,
+          "lon": 117.91771707762766,
+          "yaw": -51
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 60.17615509033203,
+            "gimbalPitch": -14.899999618530273,
+            "lat": 30.885902037631617,
+            "lon": 117.91749989853766,
+            "shootPhoto": 1,
+            "yaw": 123.89999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.20963668823242,
+            "gimbalPitch": -18.399999618530273,
+            "lat": 30.885918064915355,
+            "lon": 117.91750696011592,
+            "shootPhoto": 1,
+            "yaw": 123.79999995231628,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 60.15485763549805,
+            "gimbalPitch": -19.5,
+            "lat": 30.88589611011383,
+            "lon": 117.9174865519407,
+            "shootPhoto": 1,
+            "yaw": 132.69999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.78480529785156,
+            "gimbalPitch": -41.29999923706055,
+            "lat": 30.885892526727662,
+            "lon": 117.91752033984497,
+            "shootPhoto": 0,
+            "yaw": 130,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.9224624633789,
+            "gimbalPitch": -15.100000381469727,
+            "lat": 30.885876281400044,
+            "lon": 117.91754462838007,
+            "shootPhoto": 1,
+            "yaw": 127.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.873779296875,
+            "gimbalPitch": -15.100000381469727,
+            "lat": 30.88588579170033,
+            "lon": 117.91754469205021,
+            "shootPhoto": 1,
+            "yaw": 116.69999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.93775939941406,
+            "gimbalPitch": -13.199999809265137,
+            "lat": 30.88587955859779,
+            "lon": 117.91753250908106,
+            "shootPhoto": 1,
+            "yaw": 139.10000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.46893310546875,
+            "gimbalPitch": -22.200000762939453,
+            "lat": 30.88589029419802,
+            "lon": 117.91752751631802,
+            "shootPhoto": 1,
+            "yaw": 130.89999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.50580596923828,
+            "gimbalPitch": -22.600000381469727,
+            "lat": 30.88589937252582,
+            "lon": 117.9175141292446,
+            "shootPhoto": 1,
+            "yaw": 130.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.6251449584961,
+            "gimbalPitch": -22.600000381469727,
+            "lat": 30.88588463607633,
+            "lon": 117.91753338014358,
+            "shootPhoto": 1,
+            "yaw": 128.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 77.56092834472656,
+            "gimbalPitch": -22.600000381469727,
+            "lat": 30.885883787972663,
+            "lon": 117.91753444989104,
+            "shootPhoto": 0,
+            "yaw": 130,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 78.25088500976562,
+            "gimbalPitch": -79.4000015258789,
+            "lat": 30.88580627526958,
+            "lon": 117.91766270202588,
+            "shootPhoto": 0,
+            "yaw": -54,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.48278045654297,
+            "gimbalPitch": -36.70000076293945,
+            "lat": 30.88579995467907,
+            "lon": 117.91767660129669,
+            "shootPhoto": 1,
+            "yaw": -53,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.75113296508789,
+            "gimbalPitch": -41.5,
+            "lat": 30.88578384391198,
+            "lon": 117.91770843657383,
+            "shootPhoto": 1,
+            "yaw": -54.899999998509884,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.7764892578125,
+            "gimbalPitch": -41.5,
+            "lat": 30.88577141342628,
+            "lon": 117.91769636564922,
+            "shootPhoto": 1,
+            "yaw": -56.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 107.4117431640625,
+            "gimbalPitch": -34.29999923706055,
+            "lat": 30.88578249323464,
+            "lon": 117.91771301553284,
+            "shootPhoto": 0,
+            "yaw": -56,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 101.67642974853516,
+          "gimbalPitch": 0,
+          "lat": 30.88588093791358,
+          "lon": 117.91754694711557,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "0b380f21-ef94-40ab-b7f7-95951458e7bb",
+      "createdBy": "dyadmin",
+      "createdAt": 1589957166406,
+      "distanceInM": 509.12735171704736,
+      "durationInS": 139,
+      "images": [
+        {
+          "index": 0,
+          "md5": "2a822ea002872625021457f647341a7f"
+        },
+        {
+          "index": 1,
+          "md5": "312b5bb53e1593928c153a071768f5d9"
+        },
+        {
+          "index": 2,
+          "md5": "f156df6036e3fb3001fdb3dde9ada5b3"
+        },
+        {
+          "index": 3,
+          "md5": "865548a1f2e7a3dfb02d225264e6d918"
+        },
+        {
+          "index": 4,
+          "md5": "e6db7ae0e6fde24db02408fe66fc09a3"
+        },
+        {
+          "index": 5,
+          "md5": "1e1d9bf5463261b08221446a5dd5acce"
+        },
+        {
+          "index": 5,
+          "md5": "3b7cdaf956bc8798ee7ffc8dc2837393"
+        },
+        {
+          "index": 5,
+          "md5": "1fdd7957aa1793198438bcb3dea3af3e"
+        }
+      ],
+      "maxAltInM": 93.9000015258789,
+      "startTimestamp": 1589956634012,
+      "towerId": "2e5cea11-a91a-4c7d-875f-3a6cb7f20b3d",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 115.77394104003906,
+          "gimbalPitch": -63.5,
+          "lat": 30.88712761841756,
+          "lon": 117.91909304876503,
+          "yaw": -161
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 127.57048797607422,
+            "gimbalPitch": -45.20000076293945,
+            "lat": 30.886627617757732,
+            "lon": 117.91842187725304,
+            "shootPhoto": 1,
+            "yaw": 36.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 115.73914337158203,
+            "gimbalPitch": -45.20000076293945,
+            "lat": 30.88677181170844,
+            "lon": 117.91857413024665,
+            "shootPhoto": 1,
+            "yaw": 41.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 115.7790756225586,
+            "gimbalPitch": -45.20000076293945,
+            "lat": 30.88681225701099,
+            "lon": 117.91880260765927,
+            "shootPhoto": 1,
+            "yaw": 41.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 115.8126449584961,
+            "gimbalPitch": -52.29999923706055,
+            "lat": 30.886902678387674,
+            "lon": 117.91889820599634,
+            "shootPhoto": 1,
+            "yaw": 63.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 115.77813720703125,
+            "gimbalPitch": -54.599998474121094,
+            "lat": 30.88687022093084,
+            "lon": 117.91891681450282,
+            "shootPhoto": 1,
+            "yaw": 103.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 115.73978424072266,
+            "gimbalPitch": -65.5999984741211,
+            "lat": 30.88706417107186,
+            "lon": 117.9193812366232,
+            "shootPhoto": 1,
+            "yaw": -158.20000000298023,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 131.468017578125,
+            "gimbalPitch": -63.5,
+            "lat": 30.88712907052103,
+            "lon": 117.91909056732628,
+            "shootPhoto": 0,
+            "yaw": -161,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 127.24822998046875,
+          "gimbalPitch": 0,
+          "lat": 30.886458313068076,
+          "lon": 117.9182722781995,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "9a21223e-1d06-4b70-8085-070f0ee45f81",
+      "createdBy": "dyadmin",
+      "createdAt": 1589766947853,
+      "distanceInM": 613.1137546471505,
+      "durationInS": 220,
+      "images": [
+        {
+          "index": 0,
+          "md5": "ab4057c2e6084f0443cb2ae40f7dba27"
+        },
+        {
+          "index": 1,
+          "md5": "afb6913051f89cab2c8a2fcbd7edb60e"
+        },
+        {
+          "index": 2,
+          "md5": "f13db494f84e5768f5b621818a74fcd2"
+        },
+        {
+          "index": 3,
+          "md5": "0ac6d274c0fe176193533f29c337ad45"
+        },
+        {
+          "index": 4,
+          "md5": "ef13c2017f20ef20df7759b0a49c2f38"
+        },
+        {
+          "index": 5,
+          "md5": "407b80623eb79767e27d33b5f9b3e01b"
+        },
+        {
+          "index": 6,
+          "md5": "29ca1ced8f1e3f00a0d93d245dff4788"
+        },
+        {
+          "index": 7,
+          "md5": "5f3a76e999cbdead2f2cb68bc506fe12"
+        },
+        {
+          "index": 8,
+          "md5": "d6ddf644318b5ae238e3872d8390614b"
+        },
+        {
+          "index": 9,
+          "md5": "1a981dd302b2ddfd77e618374ab099af"
+        },
+        {
+          "index": 10,
+          "md5": "6165cf2536aec253ae00d89493cd2fd4"
+        },
+        {
+          "index": 11,
+          "md5": "f56b0c495502211a473fdb3c94533bcd"
+        },
+        {
+          "index": 12,
+          "md5": "5d63a46e7f1fe2918d114b8384c9299f"
+        },
+        {
+          "index": 13,
+          "md5": "1bc30a199518f802e1a1bddc5a6f9852"
+        }
+      ],
+      "maxAltInM": 92.4000015258789,
+      "startTimestamp": 1589766700809,
+      "towerId": "417a291c-9d4d-47a0-ae7d-ff506dd14686",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 129.8090362548828,
+          "gimbalPitch": -47.099998474121094,
+          "lat": 30.883682328644976,
+          "lon": 117.91592894607189,
+          "yaw": -41
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 119.48999786376953,
+            "gimbalPitch": -55.900001525878906,
+            "lat": 30.88501444432426,
+            "lon": 117.91556878594533,
+            "shootPhoto": 1,
+            "yaw": -151,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.5059585571289,
+            "gimbalPitch": -55.900001525878906,
+            "lat": 30.884723966544883,
+            "lon": 117.91534498033391,
+            "shootPhoto": 1,
+            "yaw": -151.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.45899963378906,
+            "gimbalPitch": -63.5,
+            "lat": 30.88453610435964,
+            "lon": 117.91515710434514,
+            "shootPhoto": 1,
+            "yaw": -162.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.49092864990234,
+            "gimbalPitch": -63.5,
+            "lat": 30.884452257555907,
+            "lon": 117.91494662687619,
+            "shootPhoto": 1,
+            "yaw": 158.59999999403954,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.47395324707031,
+            "gimbalPitch": -69.30000305175781,
+            "lat": 30.884296791878064,
+            "lon": 117.91498716785107,
+            "shootPhoto": 1,
+            "yaw": 150.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.54033660888672,
+            "gimbalPitch": -71.69999694824219,
+            "lat": 30.884129005511124,
+            "lon": 117.9151029253689,
+            "shootPhoto": 1,
+            "yaw": 149.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.53853607177734,
+            "gimbalPitch": -71.69999694824219,
+            "lat": 30.884007375793672,
+            "lon": 117.91517986507505,
+            "shootPhoto": 1,
+            "yaw": 149.59999999403954,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.48902130126953,
+            "gimbalPitch": -77.5,
+            "lat": 30.88392255384447,
+            "lon": 117.91523246598045,
+            "shootPhoto": 1,
+            "yaw": 144.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.47733306884766,
+            "gimbalPitch": -77.5,
+            "lat": 30.883814983972197,
+            "lon": 117.91536296927622,
+            "shootPhoto": 1,
+            "yaw": 49.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.51757049560547,
+            "gimbalPitch": -74.4000015258789,
+            "lat": 30.883872779187328,
+            "lon": 117.9154479190958,
+            "shootPhoto": 1,
+            "yaw": 53,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.50413513183594,
+            "gimbalPitch": -70.19999694824219,
+            "lat": 30.883905245218074,
+            "lon": 117.91551214579353,
+            "shootPhoto": 1,
+            "yaw": 58.599999994039536,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 119.50736236572266,
+            "gimbalPitch": -73.0999984741211,
+            "lat": 30.883835570067895,
+            "lon": 117.91561303776183,
+            "shootPhoto": 1,
+            "yaw": 59.599999994039536,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 126.7491683959961,
+            "gimbalPitch": -74.9000015258789,
+            "lat": 30.883802092119993,
+            "lon": 117.91568175139534,
+            "shootPhoto": 1,
+            "yaw": 20.399999976158142,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 129.7434539794922,
+            "gimbalPitch": -47.099998474121094,
+            "lat": 30.883751478913133,
+            "lon": 117.91583584511444,
+            "shootPhoto": 1,
+            "yaw": -40.899999998509884,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 119.48760223388672,
+          "gimbalPitch": 0,
+          "lat": 30.88505894416026,
+          "lon": 117.91561328607531,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "c9a19f61-e554-4454-a16f-1968cf03bf2b",
+      "createdBy": "dyadmin",
+      "createdAt": 1589266529774,
+      "distanceInM": 385.0905647895673,
+      "durationInS": 383,
+      "images": [
+        {
+          "index": 1,
+          "md5": "58659e5890d0a9348db2b87c3f229259"
+        },
+        {
+          "index": 2,
+          "md5": "0f8fd2411a29e3ac22b7270be1ed06ab"
+        },
+        {
+          "index": 3,
+          "md5": "8580539127bda2dcc54d94b15fdd0e86"
+        },
+        {
+          "index": 4,
+          "md5": "efcb096f2f4e43ed514f820f06b0b14b"
+        },
+        {
+          "index": 5,
+          "md5": "28bc0d9da2a11edf233e883940105db1"
+        },
+        {
+          "index": 8,
+          "md5": "a9cc1942922195a4072eae05e8d680f9"
+        },
+        {
+          "index": 9,
+          "md5": "3772b358fa5e6a390732c26cf1ecb42a"
+        },
+        {
+          "index": 10,
+          "md5": "094be8ab38349026b7f3f429e4de2622"
+        },
+        {
+          "index": 11,
+          "md5": "0521401b19c869053a5ee54cbaabd1b9"
+        }
+      ],
+      "maxAltInM": 100.5,
+      "startTimestamp": 1589265928822,
+      "towerId": "5bf421fb-90c2-418a-986c-7980e3673dd4",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 138.02566528320312,
+          "gimbalPitch": -36.70000076293945,
+          "lat": 30.892424744723144,
+          "lon": 117.92064465354163,
+          "yaw": -148
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 83.24376678466797,
+            "gimbalPitch": -45.099998474121094,
+            "lat": 30.892513399309813,
+            "lon": 117.9203716005555,
+            "shootPhoto": 0,
+            "yaw": 123,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.015037536621094,
+            "gimbalPitch": -13.199999809265137,
+            "lat": 30.892506598872004,
+            "lon": 117.92039796074349,
+            "shootPhoto": 1,
+            "yaw": 111.89999961853027,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.7998046875,
+            "gimbalPitch": -13.199999809265137,
+            "lat": 30.892509998446556,
+            "lon": 117.92039026982009,
+            "shootPhoto": 1,
+            "yaw": 112.09999942779541,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.36940002441406,
+            "gimbalPitch": -16.100000381469727,
+            "lat": 30.892498086515747,
+            "lon": 117.92042602815798,
+            "shootPhoto": 1,
+            "yaw": 111.69999980926514,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 71.53202819824219,
+            "gimbalPitch": -12.699999809265137,
+            "lat": 30.892496904183908,
+            "lon": 117.9204326915956,
+            "shootPhoto": 1,
+            "yaw": 112.39999961853027,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 73.76939392089844,
+            "gimbalPitch": -27.700000762939453,
+            "lat": 30.892457597931905,
+            "lon": 117.92040536221033,
+            "shootPhoto": 1,
+            "yaw": 84.59999942779541,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 83.50733184814453,
+            "gimbalPitch": -27.700000762939453,
+            "lat": 30.89245769453288,
+            "lon": 117.9204054612229,
+            "shootPhoto": 0,
+            "yaw": 95,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 83.93659210205078,
+            "gimbalPitch": -59.400001525878906,
+            "lat": 30.89243505191195,
+            "lon": 117.9206170849093,
+            "shootPhoto": 0,
+            "yaw": -59,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 71.83638000488281,
+            "gimbalPitch": -10.399999618530273,
+            "lat": 30.892436180427673,
+            "lon": 117.92061829873992,
+            "shootPhoto": 1,
+            "yaw": -69.30000019073486,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.847408294677734,
+            "gimbalPitch": -5.300000190734863,
+            "lat": 30.892435219649702,
+            "lon": 117.92062897137946,
+            "shootPhoto": 1,
+            "yaw": -69.19999980926514,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 62.868011474609375,
+            "gimbalPitch": -5.300000190734863,
+            "lat": 30.892425743872636,
+            "lon": 117.92065125314781,
+            "shootPhoto": 1,
+            "yaw": -69.30000019073486,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 61.21245574951172,
+            "gimbalPitch": -5.300000190734863,
+            "lat": 30.892431694801967,
+            "lon": 117.92063769786456,
+            "shootPhoto": 1,
+            "yaw": -69.10000038146973,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 89.08967590332031,
+            "gimbalPitch": -5.300000190734863,
+            "lat": 30.892425866903935,
+            "lon": 117.9206470337928,
+            "shootPhoto": 0,
+            "yaw": -60,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 112.95162963867188,
+          "gimbalPitch": 0,
+          "lat": 30.89251550425373,
+          "lon": 117.92037873264582,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "5d07dbdd-1444-4c27-bff2-d20aec91c1b2",
+      "createdBy": "dyadmin",
+      "createdAt": 1589265274950,
+      "distanceInM": 385.29372180556624,
+      "durationInS": 402,
+      "images": [
+        {
+          "index": 0,
+          "md5": "9a86ed71e466d3dbcc1a298c31a9a50d"
+        },
+        {
+          "index": 1,
+          "md5": "dc16a23bc7d22520d7937e0132ddc3e4"
+        },
+        {
+          "index": 2,
+          "md5": "ea02ea86f72bb43ed566eec72c9aeaf4"
+        },
+        {
+          "index": 3,
+          "md5": "c48219a6443d9f500f7fbfcba9683ebe"
+        },
+        {
+          "index": 4,
+          "md5": "b239d4fffbea33571bc8572b0c97dfdc"
+        },
+        {
+          "index": 5,
+          "md5": "4a9d0657cad1a7ccf652d5898f17549c"
+        },
+        {
+          "index": 8,
+          "md5": "c5a733f57f6e547b924e8a4138f7475d"
+        },
+        {
+          "index": 9,
+          "md5": "2d7bde8f6ea4f4d5682f0e9bbe686bb9"
+        },
+        {
+          "index": 10,
+          "md5": "4f64f03d69fac24fd48ed30903bfb5d2"
+        },
+        {
+          "index": 11,
+          "md5": "7eb868f807e6042804db0d46f35fa6d4"
+        },
+        {
+          "index": 12,
+          "md5": "3bd37585806e0512ab6a573f82b52e33"
+        }
+      ],
+      "maxAltInM": 80.80000305175781,
+      "startTimestamp": 1589264645071,
+      "towerId": "886cf97b-d9dc-4f42-851a-9f983ab02275",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 109.54100799560547,
+          "gimbalPitch": -15.699999809265137,
+          "lat": 30.88885369881921,
+          "lon": 117.9190846101625,
+          "yaw": -75
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 65.9793472290039,
+            "gimbalPitch": -23.399999618530273,
+            "lat": 30.888891294440384,
+            "lon": 117.91883659566513,
+            "shootPhoto": 1,
+            "yaw": 112.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.9655990600586,
+            "gimbalPitch": -26.299999237060547,
+            "lat": 30.888905178277682,
+            "lon": 117.91883663385835,
+            "shootPhoto": 1,
+            "yaw": 110.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.72940063476562,
+            "gimbalPitch": -21.700000762939453,
+            "lat": 30.88889680442316,
+            "lon": 117.9188138302265,
+            "shootPhoto": 1,
+            "yaw": 111.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.40895080566406,
+            "gimbalPitch": -16.299999237060547,
+            "lat": 30.888892030003376,
+            "lon": 117.91883461123842,
+            "shootPhoto": 1,
+            "yaw": 113.80000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 75.2494125366211,
+            "gimbalPitch": -16.299999237060547,
+            "lat": 30.888886598931045,
+            "lon": 117.91884982286818,
+            "shootPhoto": 1,
+            "yaw": 112.90000003576279,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 78.05809783935547,
+            "gimbalPitch": -30.399999618530273,
+            "lat": 30.888839813455807,
+            "lon": 117.91881628225038,
+            "shootPhoto": 1,
+            "yaw": 81.40000000596046,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 89.51766967773438,
+            "gimbalPitch": -30.399999618530273,
+            "lat": 30.88883781981438,
+            "lon": 117.918806523717,
+            "shootPhoto": 0,
+            "yaw": 81,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 89.63629150390625,
+            "gimbalPitch": -67,
+            "lat": 30.88881817441262,
+            "lon": 117.91904716076371,
+            "shootPhoto": 0,
+            "yaw": -73,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 76.91024780273438,
+            "gimbalPitch": -39.099998474121094,
+            "lat": 30.888838146744998,
+            "lon": 117.9190104914155,
+            "shootPhoto": 1,
+            "yaw": -70.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.34176635742188,
+            "gimbalPitch": -17.700000762939453,
+            "lat": 30.888835337185167,
+            "lon": 117.91901715494946,
+            "shootPhoto": 1,
+            "yaw": -70.69999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 66.730712890625,
+            "gimbalPitch": -15.199999809265137,
+            "lat": 30.88882485159171,
+            "lon": 117.91904392505546,
+            "shootPhoto": 1,
+            "yaw": -68.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.87417602539062,
+            "gimbalPitch": -15.199999809265137,
+            "lat": 30.888829214684943,
+            "lon": 117.91902657142496,
+            "shootPhoto": 1,
+            "yaw": -66.79999999701977,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 64.8900375366211,
+            "gimbalPitch": -18.5,
+            "lat": 30.888846783552072,
+            "lon": 117.91904019653951,
+            "shootPhoto": 1,
+            "yaw": -74.89999999850988,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 87.18699645996094,
+            "gimbalPitch": -15.699999809265137,
+            "lat": 30.888853955729545,
+            "lon": 117.91908403223987,
+            "shootPhoto": 0,
+            "yaw": -75,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 118.19831848144531,
+          "gimbalPitch": 0,
+          "lat": 30.888891147969854,
+          "lon": 117.91883074613064,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "06747556-2206-42e7-beb3-cb78aaba6e63",
+      "createdBy": "dyadmin",
+      "createdAt": 1589186300331,
+      "distanceInM": 378.5383702832781,
+      "durationInS": 276,
+      "images": [
+        {
+          "index": 0,
+          "md5": "dcc100bc2c0b3f6be03bb9742a4cca23"
+        },
+        {
+          "index": 1,
+          "md5": "71a2fdd5d1e24a6f53895077bc4128a9"
+        },
+        {
+          "index": 2,
+          "md5": "aeaa162b5a916b35085db6098b49e239"
+        },
+        {
+          "index": 3,
+          "md5": "61bc3563a4f894528e21d89116ba9dd5"
+        },
+        {
+          "index": 4,
+          "md5": "1d89a947a3a3a5b034f3cca423ae8fc2"
+        },
+        {
+          "index": 5,
+          "md5": "f082a05ccded86d73146c17278dde82a"
+        },
+        {
+          "index": 6,
+          "md5": "500ee7768037be6d84c6524dfce58c3e"
+        },
+        {
+          "index": 7,
+          "md5": "2015291b324d61a29e0f303fa190beb0"
+        },
+        {
+          "index": 8,
+          "md5": "a4ddd00d271213ab5b595c0aff41179d"
+        },
+        {
+          "index": 9,
+          "md5": "cd3b29065385e6a6f676f2dbd3b3207c"
+        },
+        {
+          "index": 10,
+          "md5": "e4c9083f9450c4c75ee688cae47e9326"
+        },
+        {
+          "index": 11,
+          "md5": "62215fb38069008bc021e637aa54905c"
+        },
+        {
+          "index": 12,
+          "md5": "77b70710fcfa2afc0bace61e653ffa77"
+        }
+      ],
+      "maxAltInM": 105.80000305175781,
+      "startTimestamp": 1589185626318,
+      "towerId": "07771508-5b1d-4444-94f9-339feeb11ee6",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 92.54159545898438,
+          "gimbalPitch": -15.199999809265137,
+          "lat": 30.884398448758958,
+          "lon": 117.92773009409655,
+          "yaw": 106
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 57.10442352294922,
+            "gimbalPitch": -13.100000381469727,
+            "lat": 30.884380605967596,
+            "lon": 117.92778262451213,
+            "shootPhoto": 1,
+            "yaw": 104.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 57.08709716796875,
+            "gimbalPitch": -16.200000762939453,
+            "lat": 30.88439999982639,
+            "lon": 117.92779071205678,
+            "shootPhoto": 1,
+            "yaw": 99.69999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.58000946044922,
+            "gimbalPitch": -17.700000762939453,
+            "lat": 30.88438262790953,
+            "lon": 117.92777531142133,
+            "shootPhoto": 1,
+            "yaw": 99.19999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 59.86972427368164,
+            "gimbalPitch": -15.399999618530273,
+            "lat": 30.88438102480226,
+            "lon": 117.92779453462566,
+            "shootPhoto": 1,
+            "yaw": 99.10000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.60917282104492,
+            "gimbalPitch": -15.399999618530273,
+            "lat": 30.88437827694969,
+            "lon": 117.92777762766555,
+            "shootPhoto": 1,
+            "yaw": 103.70000004768372,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 63.51448440551758,
+            "gimbalPitch": -18.399999618530273,
+            "lat": 30.88440157383388,
+            "lon": 117.927787608265,
+            "shootPhoto": 1,
+            "yaw": 94.69999992847443,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.77745056152344,
+            "gimbalPitch": -18.399999618530273,
+            "lat": 30.884383573227016,
+            "lon": 117.92776982815226,
+            "shootPhoto": 1,
+            "yaw": 100,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 65.7054672241211,
+            "gimbalPitch": -13.399999618530273,
+            "lat": 30.884379658804278,
+            "lon": 117.92779123568324,
+            "shootPhoto": 1,
+            "yaw": 100.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.5840072631836,
+            "gimbalPitch": -15.199999809265137,
+            "lat": 30.884382689847083,
+            "lon": 117.9277787239062,
+            "shootPhoto": 1,
+            "yaw": 109.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.62498474121094,
+            "gimbalPitch": -18,
+            "lat": 30.884409979106525,
+            "lon": 117.92778881030159,
+            "shootPhoto": 1,
+            "yaw": 105.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 72.72763061523438,
+            "gimbalPitch": -18,
+            "lat": 30.884390654454048,
+            "lon": 117.92777250259128,
+            "shootPhoto": 1,
+            "yaw": 105.79999995231628,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 72.65769958496094,
+            "gimbalPitch": -15.699999809265137,
+            "lat": 30.88438147449482,
+            "lon": 117.92779862431517,
+            "shootPhoto": 1,
+            "yaw": 105,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 75.70748901367188,
+            "gimbalPitch": -15.199999809265137,
+            "lat": 30.884388284366256,
+            "lon": 117.92777916498233,
+            "shootPhoto": 1,
+            "yaw": 105.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 83.05852508544922,
+            "gimbalPitch": -15.199999809265137,
+            "lat": 30.884397960776294,
+            "lon": 117.92773570744227,
+            "shootPhoto": 0,
+            "yaw": 108,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 138.30628967285156,
+          "gimbalPitch": 0,
+          "lat": 30.884410754462106,
+          "lon": 117.92768952021494,
+          "yaw": 0
+        }
+      }
+    },
+    {
+      "id": "5e04efc1-d062-4293-ba20-ac561c36ebb9",
+      "createdBy": "dyadmin",
+      "createdAt": 1589184559242,
+      "distanceInM": 462.0205367456045,
+      "durationInS": 706,
+      "images": [
+        {
+          "index": 1,
+          "md5": "22d0ad678a98fc8989618d7b1a1c38e1"
+        },
+        {
+          "index": 2,
+          "md5": "625cd7becc7c49bfbb362940437725a4"
+        },
+        {
+          "index": 3,
+          "md5": "1e01d23d7a21fbd2d8885e017beeedf4"
+        },
+        {
+          "index": 4,
+          "md5": "f5adb5460289c4969bfc496cd3dfa549"
+        },
+        {
+          "index": 5,
+          "md5": "7f7ac88424869fb742636b12f873c959"
+        },
+        {
+          "index": 6,
+          "md5": "5b7166e99c6ec74166e5b6b14f613687"
+        },
+        {
+          "index": 7,
+          "md5": "e7961ed81ac7d2e61477ed1db3f04b14"
+        },
+        {
+          "index": 8,
+          "md5": "86407c77d244502e5294a72dd3a00348"
+        },
+        {
+          "index": 9,
+          "md5": "209176f6d4c664792af0b773eb74d77b"
+        },
+        {
+          "index": 10,
+          "md5": "29022924eb8e88ee9e9569575dae466c"
+        },
+        {
+          "index": 11,
+          "md5": "112b4db92a6ddbc4a8fc33388238577a"
+        },
+        {
+          "index": 12,
+          "md5": "3f592ecff10957b03d96ceba44739907"
+        },
+        {
+          "index": 13,
+          "md5": "bc2102920ca4db1906cbe113e9cff630"
+        },
+        {
+          "index": 14,
+          "md5": "8f949468d83dc7d860d52eb56bcea052"
+        },
+        {
+          "index": 15,
+          "md5": "da4621089699106307eb4e57af76805e"
+        },
+        {
+          "index": 16,
+          "md5": "e6fead6ab5e225f159c82d75c5f9fa81"
+        },
+        {
+          "index": 19,
+          "md5": "4cb79292b2c6860d12818b0fdd9a93f2"
+        },
+        {
+          "index": 20,
+          "md5": "d1bb642469d2621c8e16e4199886d602"
+        },
+        {
+          "index": 21,
+          "md5": "4f47e8cf8e1d7882389d4cacc575610f"
+        },
+        {
+          "index": 22,
+          "md5": "abefcebdd44c9e2969e824fa36ae5d75"
+        },
+        {
+          "index": 23,
+          "md5": "d823babc2a36c5f248e4508e5075a457"
+        },
+        {
+          "index": 24,
+          "md5": "92fff08061115acb22d82d2d3f3dd6c6"
+        },
+        {
+          "index": 25,
+          "md5": "346c4560081c8cae03cd3748584d6ad0"
+        },
+        {
+          "index": 26,
+          "md5": "513b620cbe7024673124aab8ce6f4352"
+        },
+        {
+          "index": 27,
+          "md5": "a5c093735a2ffb254c6bf48622cd03db"
+        },
+        {
+          "index": 28,
+          "md5": "767fcf0e4f12bea6fd819d9bc848ea83"
+        },
+        {
+          "index": 29,
+          "md5": "51531790fdfcaae7acebfe1a05bb0d28"
+        },
+        {
+          "index": 30,
+          "md5": "0f813cdfe17855bc4275302400dfe17e"
+        },
+        {
+          "index": 31,
+          "md5": "78cc4f02c7c0aa4e916327dbffff4a47"
+        }
+      ],
+      "maxAltInM": 82.19999694824219,
+      "startTimestamp": 1589183662576,
+      "towerId": "07771508-5b1d-4444-94f9-339feeb11ee4",
+      "waypoint": {
+        "endPosition": {
+          "absoluteAltitude": 106.89119720458984,
+          "gimbalPitch": -16.799999237060547,
+          "lat": 30.877525096313587,
+          "lon": 117.93050280740198,
+          "yaw": -129
+        },
+        "gpsList": [
+          {
+            "absoluteAltitude": 101.71673583984375,
+            "gimbalPitch": -73.4000015258789,
+            "lat": 30.877327894923198,
+            "lon": 117.93029259458528,
+            "shootPhoto": 0,
+            "yaw": 44,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 69.45361328125,
+            "gimbalPitch": -8.800000190734863,
+            "lat": 30.87731462596826,
+            "lon": 117.93027824156829,
+            "shootPhoto": 1,
+            "yaw": 42.09999996423721,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 67.91620635986328,
+            "gimbalPitch": -8.800000190734863,
+            "lat": 30.8773705458817,
+            "lon": 117.93030099058635,
+            "shootPhoto": 1,
+            "yaw": 43.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.28929138183594,
+            "gimbalPitch": -8.800000190734863,
+            "lat": 30.87734398710511,
+            "lon": 117.93033588663423,
+            "shootPhoto": 1,
+            "yaw": 42.19999998807907,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.76990509033203,
+            "gimbalPitch": -10.899999618530273,
+            "lat": 30.877347533450653,
+            "lon": 117.93029659398027,
+            "shootPhoto": 1,
+            "yaw": 49.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 71.10050201416016,
+            "gimbalPitch": -12.699999809265137,
+            "lat": 30.877372724189488,
+            "lon": 117.93033244594834,
+            "shootPhoto": 1,
+            "yaw": 49.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 75.25030517578125,
+            "gimbalPitch": -14.800000190734863,
+            "lat": 30.87735799044554,
+            "lon": 117.93031725294907,
+            "shootPhoto": 1,
+            "yaw": 48.09999996423721,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 75.292724609375,
+            "gimbalPitch": -21.799999237060547,
+            "lat": 30.877377493973125,
+            "lon": 117.93030125226456,
+            "shootPhoto": 1,
+            "yaw": 49.699999928474426,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 75.34358215332031,
+            "gimbalPitch": -21.799999237060547,
+            "lat": 30.877356684261407,
+            "lon": 117.9303310172779,
+            "shootPhoto": 1,
+            "yaw": 57.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 77.9420166015625,
+            "gimbalPitch": -20,
+            "lat": 30.877353874197038,
+            "lon": 117.9302917145259,
+            "shootPhoto": 1,
+            "yaw": 56.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 77.85548400878906,
+            "gimbalPitch": -20,
+            "lat": 30.877368553389374,
+            "lon": 117.93032340966,
+            "shootPhoto": 1,
+            "yaw": 51.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.9529037475586,
+            "gimbalPitch": -20,
+            "lat": 30.87737252441904,
+            "lon": 117.93033283850284,
+            "shootPhoto": 1,
+            "yaw": 50.699999928474426,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.93389892578125,
+            "gimbalPitch": -21.899999618530273,
+            "lat": 30.877377164510392,
+            "lon": 117.93031006603952,
+            "shootPhoto": 1,
+            "yaw": 41.299999952316284,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.95990753173828,
+            "gimbalPitch": -24.100000381469727,
+            "lat": 30.87736215960181,
+            "lon": 117.93034305294465,
+            "shootPhoto": 1,
+            "yaw": 51.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 84.8567123413086,
+            "gimbalPitch": -24.100000381469727,
+            "lat": 30.877357828180532,
+            "lon": 117.93031176942475,
+            "shootPhoto": 1,
+            "yaw": 48.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 84.77361297607422,
+            "gimbalPitch": -22.100000381469727,
+            "lat": 30.877372182634037,
+            "lon": 117.93033208485518,
+            "shootPhoto": 1,
+            "yaw": 47.799999952316284,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 87.92769622802734,
+            "gimbalPitch": -26.399999618530273,
+            "lat": 30.87736649095558,
+            "lon": 117.9303295149923,
+            "shootPhoto": 1,
+            "yaw": 45.299999952316284,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 96.70926666259766,
+            "gimbalPitch": -26.399999618530273,
+            "lat": 30.877357490955074,
+            "lon": 117.93031930684378,
+            "shootPhoto": 0,
+            "yaw": 47,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 96.82384490966797,
+            "gimbalPitch": -44.599998474121094,
+            "lat": 30.877526304848562,
+            "lon": 117.93052233738663,
+            "shootPhoto": 0,
+            "yaw": -128,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 88.63220977783203,
+            "gimbalPitch": -33.099998474121094,
+            "lat": 30.8774928003293,
+            "lon": 117.93047191483372,
+            "shootPhoto": 1,
+            "yaw": -133.39999997615814,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 83.94827270507812,
+            "gimbalPitch": -8.899999618530273,
+            "lat": 30.877489106626566,
+            "lon": 117.93047074862132,
+            "shootPhoto": 1,
+            "yaw": -131,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 83.13850402832031,
+            "gimbalPitch": -8.899999618530273,
+            "lat": 30.877503156528416,
+            "lon": 117.93049100298917,
+            "shootPhoto": 1,
+            "yaw": -130,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.69184875488281,
+            "gimbalPitch": -11.300000190734863,
+            "lat": 30.87749975229,
+            "lon": 117.9304778230355,
+            "shootPhoto": 1,
+            "yaw": -130,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 81.71192932128906,
+            "gimbalPitch": -16.100000381469727,
+            "lat": 30.877479395431877,
+            "lon": 117.93049012639783,
+            "shootPhoto": 1,
+            "yaw": -128.5,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 77.46404266357422,
+            "gimbalPitch": -11.100000381469727,
+            "lat": 30.877495647465306,
+            "lon": 117.93047422800656,
+            "shootPhoto": 1,
+            "yaw": -133.80000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 76.55445861816406,
+            "gimbalPitch": -11.199999809265137,
+            "lat": 30.877510208766484,
+            "lon": 117.93049434188843,
+            "shootPhoto": 1,
+            "yaw": -133.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 74.94620513916016,
+            "gimbalPitch": -11.100000381469727,
+            "lat": 30.87749693215914,
+            "lon": 117.93047752587339,
+            "shootPhoto": 1,
+            "yaw": -133.20000000298023,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 74.29449462890625,
+            "gimbalPitch": -11.199999809265137,
+            "lat": 30.87750422805483,
+            "lon": 117.93046888020406,
+            "shootPhoto": 1,
+            "yaw": -120.10000000149012,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 71.52674102783203,
+            "gimbalPitch": -14.399999618530273,
+            "lat": 30.877489974568768,
+            "lon": 117.93047346346938,
+            "shootPhoto": 1,
+            "yaw": -132.9000000357628,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 70.7124252319336,
+            "gimbalPitch": -14.399999618530273,
+            "lat": 30.8775047205733,
+            "lon": 117.93049003525259,
+            "shootPhoto": 1,
+            "yaw": -131.60000002384186,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.51766204833984,
+            "gimbalPitch": -7.800000190734863,
+            "lat": 30.877490968775582,
+            "lon": 117.93047275471196,
+            "shootPhoto": 1,
+            "yaw": -131.40000000596046,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 68.5364761352539,
+            "gimbalPitch": -16.799999237060547,
+            "lat": 30.877507536223266,
+            "lon": 117.93045602497804,
+            "shootPhoto": 1,
+            "yaw": -129.30000001192093,
+            "deviceType": []
+          },
+          {
+            "absoluteAltitude": 105.75070190429688,
+            "gimbalPitch": -16.799999237060547,
+            "lat": 30.877526278855285,
+            "lon": 117.93050365650217,
+            "shootPhoto": 0,
+            "yaw": -130,
+            "deviceType": []
+          }
+        ],
+        "startPosition": {
+          "absoluteAltitude": 114.72810363769531,
+          "gimbalPitch": 0,
+          "lat": 30.87738121472809,
+          "lon": 117.93036167044527,
+          "yaw": 0
+        }
+      }
+    }
+  ]
+}

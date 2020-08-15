@@ -1,8 +1,8 @@
-package bean;
+package bean.groups;
 
-public class Line {
+public class Groups {
     public String id;
-    public Info info;
+    public GroupsInfo info;
 
     public String getId() {
         return id;
@@ -12,11 +12,11 @@ public class Line {
         this.id = id;
     }
 
-    public Info getInfo() {
+    public GroupsInfo getInfo() {
         return info;
     }
 
-    public void setInfo(Info info) {
+    public void setInfo(GroupsInfo info) {
         this.info = info;
     }
 }

@@ -1,6 +1,6 @@
-package bean;
+package bean.groups;
 
-public class Info {
+public class GroupsInfo {
     /**
      * "name":"220KV池塘",
      * "volLevelInKV":220,

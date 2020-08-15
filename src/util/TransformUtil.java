@@ -2,6 +2,7 @@ package util;
 
 import bean.collection.CollectionBean;
 import bean.groups.Groups;
+import bean.groups.GroupsInfo;
 import bean.targets.Targets;
 import bean.targets.TargetsIdVersion;
 import bean.targets.TargetsInfo;
@@ -11,12 +12,12 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class TransformUtil {
+    public static HashMap<String, Targets> vpHashMap = new HashMap<>();
+    public static List<Targets> vpList = new ArrayList<>();
+
     public static String executeLinesToGroups(String json) {
         Gson gson = new Gson();
         if (json != null && !json.isEmpty()) {
@@ -24,6 +25,33 @@ public class TransformUtil {
             JSONArray jsonArray = jsonObject.getJSONArray("activeDataList");
             List<Groups> lines = gson.fromJson(jsonArray.toString(), new TypeToken<List<Groups>>() {
             }.getType());
+            //获取visiblePassageway
+            if (vpList.size()>0||!vpList.isEmpty()){
+                vpList.clear();
+            }
+            for (int i = 0; i < lines.size(); i++) {
+               Groups groups=lines.get(i);
+                Targets vpTarget = new Targets();
+                TargetsInfo vpTargetsInfo = new TargetsInfo();
+                vpTargetsInfo.setGps(null);
+                vpTargetsInfo.setTowerHeight(null);
+                vpTargetsInfo.setAbsoluteAltitudeInM(null);
+                vpTargetsInfo.setIdentifier("passageways");
+                vpTargetsInfo.setGroupId(groups.getId());
+                vpTargetsInfo.setCreatedBy("xp");
+                vpTargetsInfo.setVolLevelsInKv(null);
+                vpTargetsInfo.setCategory(null);
+                vpTargetsInfo.setCreatedAt(groups.getInfo().createdAt);
+                vpTargetsInfo.setDeserted(false);
+
+                TargetsIdVersion targetsIdVersion = new TargetsIdVersion();
+                targetsIdVersion.setId(groups.getId() + "_passageMock");
+                targetsIdVersion.setVersion("v1");
+
+                vpTarget.setId_version(targetsIdVersion);
+                vpTarget.setInfo(vpTargetsInfo);
+                vpList.add(vpTarget);
+            }
             if (lines != null && lines.size() > 0) {
                 System.out.println("lines 转换 list 成功");
             }
@@ -38,43 +66,16 @@ public class TransformUtil {
     public static String executeTowersToTargets(String json) {
 
         Gson gson = new GsonBuilder().serializeNulls().create();
+        List<Targets> resultTargets = new ArrayList<>();
+        if(vpList!=null&&vpList.size()>0){
+            resultTargets.addAll(vpList);
+        }
         if (json != null && !json.isEmpty()) {
             JSONObject jsonObject = new JSONObject(json);
             JSONArray jsonArray = jsonObject.getJSONArray("activeDataList");
             List<Targets> targets = gson.fromJson(jsonArray.toString(), new TypeToken<List<Targets>>() {
             }.getType());
-            //获取visiblePassageway
-            HashMap<String,Targets> hashMap = new HashMap<>();
-            for(int i = 0;i<targets.size();i++){
-                Targets targetsObj = targets.get(i);
-                TargetsInfo targetsInfo = targetsObj.getInfo();
-                if(targetsInfo.getCategory().equals("xp")){
-                    if(!hashMap.containsKey(targetsInfo.getLineId())){
-                        Targets vpTarget = new Targets();
-                        TargetsInfo vpTargetsInfo = new TargetsInfo();
-                        vpTargetsInfo.setGps(null);
-                        vpTargetsInfo.setTowerHeight(null);
-                        vpTargetsInfo.setAbsoluteAltitudeInM(null);
-                        vpTargetsInfo.setIdentifier(targetsInfo.getIdentifier());
-                        vpTargetsInfo.setGroupId(targetsInfo.getLineId());
-                        vpTargetsInfo.setCreatedBy("xp");
-                        vpTargetsInfo.setVolLevelsInKv(null);
-                        vpTargetsInfo.setCategory(null);
-                        vpTargetsInfo.setCreatedAt(targetsInfo.getCreatedAt());
-                        vpTargetsInfo.setDeserted(false);
 
-                        TargetsIdVersion targetsIdVersion = new TargetsIdVersion();
-                        targetsIdVersion.setId(targetsInfo.getLineId()+"_passageMock");
-                        targetsIdVersion.setVersion(targetsObj.getId_version().getVersion());
-
-                        vpTarget.setId_version(targetsIdVersion);
-                        vpTarget.setInfo(vpTargetsInfo);
-
-                        hashMap.put(targetsInfo.getLineId(),vpTarget);
-
-                    }
-                }
-            }
             for (int i = 0; i < targets.size(); i++) {
                 Targets targetsObj = targets.get(i);
                 TargetsInfo targetsInfo = targetsObj.getInfo();
@@ -88,7 +89,8 @@ public class TransformUtil {
             if (targets != null && targets.size() > 0) {
                 System.out.println("towers 转换 list 成功");
             }
-            String result = "{\"activeDateList\":" + gson.toJson(targets) + "}";
+            resultTargets.addAll(targets);
+            String result = "{\"activeDateList\":" + gson.toJson(resultTargets) + "}";
             FileUtil.write(Values.TARGETS_NAME, result);
             System.out.println("towers.json 转换 targets.json 成功");
         }
@@ -98,7 +100,7 @@ public class TransformUtil {
     public static String executeMissionTowersToCollectionInfo(String json) {
         //设置要替换的key
         HashMap<String, String> rep = new HashMap<String, String>();
-        rep.put("towerId","targetId");
+        rep.put("towerId", "targetId");
 
         Gson gson = new GsonBuilder().serializeNulls().create();
         if (json != null && !json.isEmpty()) {
@@ -120,6 +122,7 @@ public class TransformUtil {
 
     /**
      * 替换key
+     *
      * @param source
      * @param rep
      * @return

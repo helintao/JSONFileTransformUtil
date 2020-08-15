@@ -3,6 +3,7 @@ package util;
 import bean.collection.CollectionBean;
 import bean.groups.Groups;
 import bean.targets.Targets;
+import bean.targets.TargetsIdVersion;
 import bean.targets.TargetsInfo;
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;
@@ -42,6 +43,38 @@ public class TransformUtil {
             JSONArray jsonArray = jsonObject.getJSONArray("activeDataList");
             List<Targets> targets = gson.fromJson(jsonArray.toString(), new TypeToken<List<Targets>>() {
             }.getType());
+            //获取visiblePassageway
+            HashMap<String,Targets> hashMap = new HashMap<>();
+            for(int i = 0;i<targets.size();i++){
+                Targets targetsObj = targets.get(i);
+                TargetsInfo targetsInfo = targetsObj.getInfo();
+                if(targetsInfo.getCategory().equals("xp")){
+                    if(!hashMap.containsKey(targetsInfo.getLineId())){
+                        Targets vpTarget = new Targets();
+                        TargetsInfo vpTargetsInfo = new TargetsInfo();
+                        vpTargetsInfo.setGps(null);
+                        vpTargetsInfo.setTowerHeight(null);
+                        vpTargetsInfo.setAbsoluteAltitudeInM(null);
+                        vpTargetsInfo.setIdentifier(targetsInfo.getIdentifier());
+                        vpTargetsInfo.setGroupId(targetsInfo.getLineId());
+                        vpTargetsInfo.setCreatedBy("xp");
+                        vpTargetsInfo.setVolLevelsInKv(null);
+                        vpTargetsInfo.setCategory(null);
+                        vpTargetsInfo.setCreatedAt(targetsInfo.getCreatedAt());
+                        vpTargetsInfo.setDeserted(false);
+
+                        TargetsIdVersion targetsIdVersion = new TargetsIdVersion();
+                        targetsIdVersion.setId(targetsInfo.getLineId()+"_passageMock");
+                        targetsIdVersion.setVersion(targetsObj.getId_version().getVersion());
+
+                        vpTarget.setId_version(targetsIdVersion);
+                        vpTarget.setInfo(vpTargetsInfo);
+
+                        hashMap.put(targetsInfo.getLineId(),vpTarget);
+
+                    }
+                }
+            }
             for (int i = 0; i < targets.size(); i++) {
                 Targets targetsObj = targets.get(i);
                 TargetsInfo targetsInfo = targetsObj.getInfo();

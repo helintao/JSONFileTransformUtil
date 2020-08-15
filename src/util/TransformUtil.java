@@ -50,6 +50,7 @@ public class TransformUtil {
 
                 vpTarget.setId_version(targetsIdVersion);
                 vpTarget.setInfo(vpTargetsInfo);
+                vpTarget.setType("visiblePassageway");
                 vpList.add(vpTarget);
             }
             if (lines != null && lines.size() > 0) {

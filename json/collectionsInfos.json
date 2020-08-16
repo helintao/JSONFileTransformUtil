@@ -10,22 +10,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.884165778943814,
           "lon": 117.91536927223207,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.887096040096903,
           "lon": 117.91927188634874,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -55,7 +55,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602205,
+      "createdAt": 1597582073164,
       "createdBy": "dyadmin"
     },
     {
@@ -68,22 +68,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.889754177572716,
           "lon": 117.90610599491632,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.889754177572716,
           "lon": 117.90610599491632,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -102,7 +102,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602207,
+      "createdAt": 1597582073166,
       "createdBy": "wangwu"
     },
     {
@@ -115,22 +115,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.86777288,
           "lon": 117.93892098,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.9036496,
           "lon": 117.93354826,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -292,7 +292,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602207,
+      "createdAt": 1597582073166,
       "createdBy": "dyadmin"
     },
     {
@@ -305,22 +305,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.86777288,
           "lon": 117.93892098,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.9036496,
           "lon": 117.93354826,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -482,7 +482,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602208,
+      "createdAt": 1597582073166,
       "createdBy": "dyadmin"
     },
     {
@@ -495,22 +495,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88238943,
           "lon": 117.91255577,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88295569,
           "lon": 117.88410341,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -617,7 +617,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602208,
+      "createdAt": 1597582073167,
       "createdBy": "dyadmin"
     },
     {
@@ -630,22 +630,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88217723,
           "lon": 117.91276421,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88241607,
           "lon": 117.88577741,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -752,7 +752,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602208,
+      "createdAt": 1597582073167,
       "createdBy": "dyadmin"
     },
     {
@@ -765,22 +765,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88202293,
           "lon": 117.91340577,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.86558006,
           "lon": 117.93569622,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -898,7 +898,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602208,
+      "createdAt": 1597582073167,
       "createdBy": "dyadmin"
     },
     {
@@ -911,22 +911,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.87229018,
           "lon": 117.88857559,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88198453,
           "lon": 117.91297638,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -1044,7 +1044,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602208,
+      "createdAt": 1597582073167,
       "createdBy": "dyadmin"
     },
     {
@@ -1057,22 +1057,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88401782,
           "lon": 117.91487621,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90472724,
           "lon": 117.93008956,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -1179,7 +1179,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602209,
+      "createdAt": 1597582073167,
       "createdBy": "dyadmin"
     },
     {
@@ -1192,22 +1192,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88390138,
           "lon": 117.91502805,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90479216,
           "lon": 117.93068652,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -1314,7 +1314,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602209,
+      "createdAt": 1597582073168,
       "createdBy": "dyadmin"
     },
     {
@@ -1327,22 +1327,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90540676,
           "lon": 117.92999904,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.89792922,
           "lon": 117.89112209,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -1537,7 +1537,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602209,
+      "createdAt": 1597582073168,
       "createdBy": "dyadmin"
     },
     {
@@ -1550,22 +1550,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90510017,
           "lon": 117.93007063,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.89766899,
           "lon": 117.89113808,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -1760,7 +1760,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602209,
+      "createdAt": 1597582073168,
       "createdBy": "dyadmin"
     },
     {
@@ -1773,22 +1773,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88215166,
           "lon": 117.88553526,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90110096,
           "lon": 117.93758306,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -2027,7 +2027,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602210,
+      "createdAt": 1597582073168,
       "createdBy": "dyadmin"
     },
     {
@@ -2040,22 +2040,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.87038297,
           "lon": 117.88760393,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90110096,
           "lon": 117.93758306,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -2283,7 +2283,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602210,
+      "createdAt": 1597582073168,
       "createdBy": "dyadmin"
     },
     {
@@ -2296,22 +2296,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88447334,
           "lon": 117.912223,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88361675,
           "lon": 117.88494132,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -2440,7 +2440,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602211,
+      "createdAt": 1597582073169,
       "createdBy": "dyadmin"
     },
     {
@@ -2453,22 +2453,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.8846269,
           "lon": 117.91236368,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.89909014,
           "lon": 117.89031918,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -2597,7 +2597,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602211,
+      "createdAt": 1597582073169,
       "createdBy": "dyadmin"
     },
     {
@@ -2610,22 +2610,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.8848187,
           "lon": 117.91252185,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90005185,
           "lon": 117.89007711,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -2754,7 +2754,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602211,
+      "createdAt": 1597582073169,
       "createdBy": "dyadmin"
     },
     {
@@ -2767,22 +2767,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88505611,
           "lon": 117.91271053,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90848961,
           "lon": 117.91818133,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -2933,7 +2933,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602211,
+      "createdAt": 1597582073169,
       "createdBy": "dyadmin"
     },
     {
@@ -2946,22 +2946,22 @@
       "isDeserted": false,
       "waypoint": {
         "startPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.88505611,
           "lon": 117.91271053,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "endPosition": {
-          "absoluteAltitude": 0.0,
-          "absoluteBottomAltitude": 0.0,
-          "absoluteTopAltitude": 0.0,
+          "absoluteAltitude": 140.0,
+          "absoluteBottomAltitude": 40.0,
+          "absoluteTopAltitude": 140.0,
           "lat": 30.90191478,
           "lon": 117.93518977,
           "yaw": 0.0,
-          "gimbalPitch": 0.0
+          "gimbalPitch": -90.0
         },
         "gpsList": [
           {
@@ -3112,7 +3112,7 @@
       },
       "images": [],
       "type": "visiblePassageway",
-      "createdAt": 1597580602212,
+      "createdAt": 1597582073169,
       "createdBy": "dyadmin"
     },
     {
@@ -3341,7 +3341,7 @@
           "md5": "804eb07cffe78b0c1606569a104d0ced"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590809794531,
       "createdBy": "tljc"
     },
@@ -3560,7 +3560,7 @@
           "md5": "7a397acf090677f930afdf117380fdab"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590809718117,
       "createdBy": "tljc"
     },
@@ -3854,7 +3854,7 @@
           "md5": "1bbb0017aeab6edc6952a71e9a041d1b"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590809675620,
       "createdBy": "tljc"
     },
@@ -4159,7 +4159,7 @@
           "md5": "e830e6afa2f15c2da77044189bac2288"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590807775051,
       "createdBy": "tljc"
     },
@@ -4453,7 +4453,7 @@
           "md5": "718d10bb03857aacafb698e554c97d56"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590806237723,
       "createdBy": "tljc"
     },
@@ -4784,7 +4784,7 @@
           "md5": "dce2d6225fef661936dc41b9591d1097"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590804584175,
       "createdBy": "tljc"
     },
@@ -4840,7 +4840,7 @@
           "md5": "130fe8525169473fa4b72be4bb97c34b"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590303670973,
       "createdBy": "dyadmin"
     },
@@ -4896,7 +4896,7 @@
           "md5": "e6274be2b86f36bf35a55a0f70a8f91e"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590303658775,
       "createdBy": "dyadmin"
     },
@@ -4963,7 +4963,7 @@
           "md5": "a9730adbd04cf1e264d5f5086704afb4"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302749690,
       "createdBy": "dyadmin"
     },
@@ -5030,7 +5030,7 @@
           "md5": "7a02070dfc19111e7339067bd96cdc6d"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302738433,
       "createdBy": "dyadmin"
     },
@@ -5097,7 +5097,7 @@
           "md5": "a0d73acc043c4035183f1bdb6951248f"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302725987,
       "createdBy": "dyadmin"
     },
@@ -5164,7 +5164,7 @@
           "md5": "baccec8276781b2b40754a12b4a4f82a"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302713457,
       "createdBy": "dyadmin"
     },
@@ -5231,7 +5231,7 @@
           "md5": "66f6ce45b916a2c56418a058e6cbcbe8"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302699880,
       "createdBy": "dyadmin"
     },
@@ -5298,7 +5298,7 @@
           "md5": "bb5673fe1342a2ce0647491cc0ae68b1"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302686350,
       "createdBy": "dyadmin"
     },
@@ -5354,7 +5354,7 @@
           "md5": "6da643f744059b731908850bf80a6fbb"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590302672842,
       "createdBy": "dyadmin"
     },
@@ -5496,7 +5496,7 @@
           "md5": "2f91edc852c07e6af6e1ee360b963490"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590133764125,
       "createdBy": "dyadmin"
     },
@@ -5772,7 +5772,7 @@
           "md5": "71f4ac44b2ab6f557d993b2805b195f8"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590119019577,
       "createdBy": "dyadmin"
     },
@@ -5984,7 +5984,7 @@
         "version": "v2"
       },
       "images": [],
-      "type": null,
+      "type": "visible",
       "createdAt": 1590117554968,
       "createdBy": "dyadmin"
     },
@@ -6130,7 +6130,7 @@
           "md5": "1fdd7957aa1793198438bcb3dea3af3e"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1589957166406,
       "createdBy": "dyadmin"
     },
@@ -6377,7 +6377,7 @@
           "md5": "1bc30a199518f802e1a1bddc5a6f9852"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1589766947853,
       "createdBy": "dyadmin"
     },
@@ -6593,7 +6593,7 @@
           "md5": "0521401b19c869053a5ee54cbaabd1b9"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1589266529774,
       "createdBy": "dyadmin"
     },
@@ -6828,7 +6828,7 @@
           "md5": "3bd37585806e0512ab6a573f82b52e33"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1589265274950,
       "createdBy": "dyadmin"
     },
@@ -7071,7 +7071,7 @@
           "md5": "77b70710fcfa2afc0bace61e653ffa77"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1589186300331,
       "createdBy": "dyadmin"
     },
@@ -7587,7 +7587,7 @@
           "md5": "78cc4f02c7c0aa4e916327dbffff4a47"
         }
       ],
-      "type": null,
+      "type": "visible",
       "createdAt": 1589184559242,
       "createdBy": "dyadmin"
     }

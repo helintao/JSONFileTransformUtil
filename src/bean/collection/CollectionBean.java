@@ -12,8 +12,8 @@ public class CollectionBean {
     public boolean isDeserted=false;
     public WayPoint waypoint;
     public List<Images> images;
-    public String type;
-    public String createdAt;
+    public String type="visible";
+    public long createdAt;
     public String createdBy;
 
     public String getId() {
@@ -96,11 +96,11 @@ public class CollectionBean {
         this.type = type;
     }
 
-    public String getCreatedAt() {
+    public long getCreatedAt() {
         return createdAt;
     }
 
-    public void setCreatedAt(String createdAt) {
+    public void setCreatedAt(long createdAt) {
         this.createdAt = createdAt;
     }
 

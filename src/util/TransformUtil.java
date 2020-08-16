@@ -1,6 +1,9 @@
 package util;
 
 import bean.collection.CollectionBean;
+import bean.collection.Gps;
+import bean.collection.StartAndEndPosition;
+import bean.collection.WayPoint;
 import bean.groups.Groups;
 import bean.groups.GroupsInfo;
 import bean.targets.Targets;
@@ -15,8 +18,9 @@ import org.json.JSONObject;
 import java.util.*;
 
 public class TransformUtil {
-    public static HashMap<String, Targets> vpHashMap = new HashMap<>();
+    public static HashMap<String, List<Targets>> vpHashMap = new HashMap<>();
     public static List<Targets> vpList = new ArrayList<>();
+    public static List<Targets> vpWPList = new ArrayList<>();
 
     public static String executeLinesToGroups(String json) {
         Gson gson = new Gson();
@@ -90,6 +94,7 @@ public class TransformUtil {
             if (targets != null && targets.size() > 0) {
                 System.out.println("towers 转换 list 成功");
             }
+            vpWPList=targets;
             resultTargets.addAll(targets);
             String result = "{\"activeDateList\":" + gson.toJson(resultTargets) + "}";
             FileUtil.write(Values.TARGETS_NAME, result);
@@ -103,6 +108,64 @@ public class TransformUtil {
         HashMap<String, String> rep = new HashMap<String, String>();
         rep.put("towerId", "targetId");
 
+        //航点转换
+        List<CollectionBean> targetsCollection = new ArrayList<>();
+        for(int i=0;i<vpList.size();i++){
+            Targets targets = vpList.get(i);
+            TargetsInfo targetsInfo = targets.getInfo();
+            List<Gps> gpsList=new ArrayList<>();
+            TargetsInfo endTargetsInfo=null;
+            for(int j=0;j<vpWPList.size();j++){
+                Gps gps=null;
+                 if(targetsInfo.getGroupId().equals(vpWPList.get(j).getInfo().getGroupId())){
+                     gps = new Gps();
+                     gps.setLon(vpWPList.get(j).getInfo().getGps().getLon());
+                     gps.setLat(vpWPList.get(j).getInfo().getGps().getLat());
+                     gps.setYaw(0);
+                     gps.setGimbalPitch(-90);
+                     gps.setShootPhoto(0);
+                     gps.setOpticalZoomFocalLength(100);
+                     endTargetsInfo= vpWPList.get(j).getInfo();
+                     gpsList.add(gps);
+                 }
+            }
+            if(gpsList!=null&&gpsList.size()>0){
+                CollectionBean collectionBean = new CollectionBean();
+                collectionBean.setId(targetsInfo.getGroupId());
+                collectionBean.setTargetId(targetsInfo.getGroupId()+"_passageMock");
+                collectionBean.setStartTimestamp(endTargetsInfo.getCreatedAt());
+                collectionBean.setDistanceInM(10);
+                collectionBean.setDurationInS(600);
+                collectionBean.setMaxAltInM(100);
+                collectionBean.setType("visiblePassageway");
+                collectionBean.setCreatedAt(new Date().getTime());
+                collectionBean.setCreatedBy(endTargetsInfo.getCreatedBy());
+                WayPoint wayPoint = new WayPoint();
+                wayPoint.setGpsList(gpsList);
+                StartAndEndPosition startPostion= new StartAndEndPosition();
+                startPostion.setLon(gpsList.get(0).getLon());
+                startPostion.setLat(gpsList.get(0).getLat());
+                startPostion.setAbsoluteAltitude(gpsList.get(0).getAbsoluteAltitude());
+                startPostion.setAbsoluteTopAltitude(gpsList.get(0).getAbsoluteTopAltitude());
+                startPostion.setAbsoluteBottomAltitude(gpsList.get(0).getAbsoluteBottomAltitude());
+                startPostion.setGimbalPitch(gpsList.get(0).getGimbalPitch());
+                wayPoint.setStartPosition(startPostion);
+                StartAndEndPosition endPostion= new StartAndEndPosition();
+                endPostion.setLon(gpsList.get(gpsList.size()-1).getLon());
+                endPostion.setLat(gpsList.get(gpsList.size()-1).getLat());
+                endPostion.setAbsoluteAltitude(gpsList.get(gpsList.size()-1).getAbsoluteAltitude());
+                endPostion.setAbsoluteTopAltitude(gpsList.get(gpsList.size()-1).getAbsoluteTopAltitude());
+                endPostion.setAbsoluteBottomAltitude(gpsList.get(gpsList.size()-1).getAbsoluteBottomAltitude());
+                endPostion.setGimbalPitch(gpsList.get(gpsList.size()-1).getGimbalPitch());
+                wayPoint.setEndPosition(endPostion);
+                collectionBean.setWaypoint(wayPoint);
+                collectionBean.setImages(new ArrayList<>());
+                targetsCollection.add(collectionBean);
+            }
+        }
+
+        List<CollectionBean> resultCollection = new ArrayList<>();
+        resultCollection.addAll(targetsCollection);
         Gson gson = new GsonBuilder().serializeNulls().create();
         if (json != null && !json.isEmpty()) {
             JSONObject jsonObject = new JSONObject(json);
@@ -114,7 +177,8 @@ public class TransformUtil {
             if (collections != null && collections.size() > 0) {
                 System.out.println("MissionTowers 转换 list 成功");
             }
-            String result = "{\"activeDateList\":" + gson.toJson(collections) + "}";
+            resultCollection.addAll(collections);
+            String result = "{\"activeDateList\":" + gson.toJson(resultCollection) + "}";
             FileUtil.write(Values.COLLECTIONS_NAME, result);
             System.out.println("MissionTowers.json 转换 CollectionInfo.json 成功");
         }

@@ -1,1 +1,213 @@
-{"activeDataList":[{"id":"fe602572-4846-4eae-870b-85356d478375","info":{"createdAt":1589766115976,"managementTeam":"班组一","createdBy":"dyadmin","name":"220KV池塘","deserted":false,"volLevelInKV":220}},{"id":"e46186fa-e3a8-4932-beb7-2f10f8cddb24","info":{"createdAt":1590132953943,"managementTeam":"班组一","createdBy":"wangwu","name":"220KV地膜","deserted":false,"volLevelInKV":220}},{"id":"cb88786e-4b7f-4c43-ba9b-70e640cb2fd5","info":{"createdAt":1590288280956,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV官顺4D56线","deserted":false,"volLevelInKV":1000}},{"id":"deaa42d1-3f70-494a-a80b-14160eb83f28","info":{"createdAt":1590288281167,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV官顺4D57线","deserted":false,"volLevelInKV":1000}},{"id":"efd1d12a-0f2b-4611-a310-845424cf7396","info":{"createdAt":1590288281322,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV朱桂2881线","deserted":false,"volLevelInKV":1000}},{"id":"ad09be05-863a-433e-a324-260424fc74cb","info":{"createdAt":1590288281422,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV朱桂2882线","deserted":false,"volLevelInKV":1000}},{"id":"4e945bbe-018a-41d5-a534-00ae4bce6516","info":{"createdAt":1590288281518,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV陈朱2883线","deserted":false,"volLevelInKV":1000}},{"id":"8b6d836b-e9dc-47d0-b62a-f57b912d3c8a","info":{"createdAt":1590288281625,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV董朱2D52线","deserted":false,"volLevelInKV":1000}},{"id":"589d7ed5-51c6-4564-b3b3-2d57a831ef72","info":{"createdAt":1590288281727,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV丹朱2D65线","deserted":false,"volLevelInKV":1000}},{"id":"b81d63fb-b112-4eb2-954d-3014328c5284","info":{"createdAt":1590288281809,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV丹朱2D66线","deserted":false,"volLevelInKV":1000}},{"id":"c146c3c8-cea0-4354-9cab-b45c95c3bc89","info":{"createdAt":1590288281898,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV丹西4DQ5线","deserted":false,"volLevelInKV":1000}},{"id":"656da4e0-d62c-428a-9070-6891ac2e21a6","info":{"createdAt":1590288282059,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV丹西4DQ6线","deserted":false,"volLevelInKV":1000}},{"id":"55802026-9341-45f3-a987-ef90720e2b9e","info":{"createdAt":1590288282231,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV桂库2889线","deserted":false,"volLevelInKV":1000}},{"id":"9ef54d33-e808-4c98-ba93-372e0009afaf","info":{"createdAt":1590288282437,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"220kV繁董2877线","deserted":false,"volLevelInKV":1000}},{"id":"d65cc328-8488-4eb3-a7db-a401538bbf9f","info":{"createdAt":1590288282645,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"110kV朱西471线","deserted":false,"volLevelInKV":1000}},{"id":"00a3432f-7436-402f-bb71-2fd7add14b51","info":{"createdAt":1590288282767,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"110kV朱东461线","deserted":false,"volLevelInKV":1000}},{"id":"f1708881-17fc-42a4-8b69-2b2a45318f55","info":{"createdAt":1590288282884,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"110kV朱红463线","deserted":false,"volLevelInKV":1000}},{"id":"ad09ac5e-7960-490f-bbf3-7c69c2fc30dd","info":{"createdAt":1590288283002,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"110kV朱乌465线","deserted":false,"volLevelInKV":1000}},{"id":"56e95f98-b765-4ab2-a1a9-27e3071d68db","info":{"createdAt":1590288283133,"managementTeam":"dyadmin","createdBy":"dyadmin","name":"110kV朱新467线","deserted":false,"volLevelInKV":1000}}]}
+{
+  "activeDataList": [
+    {
+      "id": "fe602572-4846-4eae-870b-85356d478375",
+      "info": {
+        "name": "220KV池塘",
+        "volLevelInKV": 220,
+        "managementTeam": "班组一",
+        "createdAt": 1589766115976,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "e46186fa-e3a8-4932-beb7-2f10f8cddb24",
+      "info": {
+        "name": "220KV地膜",
+        "volLevelInKV": 220,
+        "managementTeam": "班组一",
+        "createdAt": 1590132953943,
+        "createdBy": "wangwu",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "cb88786e-4b7f-4c43-ba9b-70e640cb2fd5",
+      "info": {
+        "name": "220kV官顺4D56线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288280956,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "deaa42d1-3f70-494a-a80b-14160eb83f28",
+      "info": {
+        "name": "220kV官顺4D57线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281167,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "efd1d12a-0f2b-4611-a310-845424cf7396",
+      "info": {
+        "name": "220kV朱桂2881线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281322,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "ad09be05-863a-433e-a324-260424fc74cb",
+      "info": {
+        "name": "220kV朱桂2882线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281422,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "4e945bbe-018a-41d5-a534-00ae4bce6516",
+      "info": {
+        "name": "220kV陈朱2883线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281518,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "8b6d836b-e9dc-47d0-b62a-f57b912d3c8a",
+      "info": {
+        "name": "220kV董朱2D52线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281625,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "589d7ed5-51c6-4564-b3b3-2d57a831ef72",
+      "info": {
+        "name": "220kV丹朱2D65线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281727,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "b81d63fb-b112-4eb2-954d-3014328c5284",
+      "info": {
+        "name": "220kV丹朱2D66线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281809,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "c146c3c8-cea0-4354-9cab-b45c95c3bc89",
+      "info": {
+        "name": "220kV丹西4DQ5线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288281898,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "656da4e0-d62c-428a-9070-6891ac2e21a6",
+      "info": {
+        "name": "220kV丹西4DQ6线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288282059,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "55802026-9341-45f3-a987-ef90720e2b9e",
+      "info": {
+        "name": "220kV桂库2889线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288282231,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "9ef54d33-e808-4c98-ba93-372e0009afaf",
+      "info": {
+        "name": "220kV繁董2877线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288282437,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "d65cc328-8488-4eb3-a7db-a401538bbf9f",
+      "info": {
+        "name": "110kV朱西471线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288282645,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "00a3432f-7436-402f-bb71-2fd7add14b51",
+      "info": {
+        "name": "110kV朱东461线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288282767,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "f1708881-17fc-42a4-8b69-2b2a45318f55",
+      "info": {
+        "name": "110kV朱红463线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288282884,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "ad09ac5e-7960-490f-bbf3-7c69c2fc30dd",
+      "info": {
+        "name": "110kV朱乌465线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288283002,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    },
+    {
+      "id": "56e95f98-b765-4ab2-a1a9-27e3071d68db",
+      "info": {
+        "name": "110kV朱新467线",
+        "volLevelInKV": 1000,
+        "managementTeam": "dyadmin",
+        "createdAt": 1590288283133,
+        "createdBy": "dyadmin",
+        "isDeserted": false
+      }
+    }
+  ]
+}

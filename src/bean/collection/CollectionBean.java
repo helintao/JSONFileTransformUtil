@@ -10,7 +10,7 @@ public class CollectionBean {
     public double maxAltInM;
     public long startTimestamp;
     public boolean isDeserted=false;
-    public WayPoint waypoint;
+    public WayPoint wayPoint;
     public List<Images> images;
     public String type="visible";
     public long createdAt;
@@ -72,12 +72,12 @@ public class CollectionBean {
         isDeserted = deserted;
     }
 
-    public WayPoint getWaypoint() {
-        return waypoint;
+    public WayPoint getWayPoint() {
+        return wayPoint;
     }
 
-    public void setWaypoint(WayPoint waypoint) {
-        this.waypoint = waypoint;
+    public void setWayPoint(WayPoint wayPoint) {
+        this.wayPoint = wayPoint;
     }
 
     public List<Images> getImages() {

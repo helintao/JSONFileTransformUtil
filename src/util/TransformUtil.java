@@ -23,7 +23,7 @@ public class TransformUtil {
     public static List<Targets> vpWPList = new ArrayList<>();
 
     public static String executeLinesToGroups(String json) {
-        Gson gson = new Gson();
+        Gson gson = new GsonBuilder().serializeNulls().create();
         if (json != null && !json.isEmpty()) {
             JSONObject jsonObject = new JSONObject(json);
             JSONArray jsonArray = jsonObject.getJSONArray("activeDataList");
@@ -60,9 +60,11 @@ public class TransformUtil {
             if (lines != null && lines.size() > 0) {
                 System.out.println("lines 转换 list 成功");
             }
-            JSONObject result = new JSONObject();
-            result.put("activeDataList", lines);
-            FileUtil.write(Values.GROUPS_NAME, result.toString());
+//            JSONObject result = new JSONObject();
+//            result.put("activeDataList", lines);
+            String result = "{\"activeDataList\":" + gson.toJson(lines) + "}";
+//            FileUtil.write(Values.TARGETS_NAME, result);
+            FileUtil.write(Values.GROUPS_NAME, result);
             System.out.println("lines.json 转换 groups.json 成功");
         }
         return null;
@@ -96,7 +98,7 @@ public class TransformUtil {
             }
             vpWPList=targets;
             resultTargets.addAll(targets);
-            String result = "{\"activeDateList\":" + gson.toJson(resultTargets) + "}";
+            String result = "{\"activeDataList\":" + gson.toJson(resultTargets) + "}";
             FileUtil.write(Values.TARGETS_NAME, result);
             System.out.println("towers.json 转换 targets.json 成功");
         }
@@ -158,7 +160,7 @@ public class TransformUtil {
                 endPostion.setAbsoluteBottomAltitude(gpsList.get(gpsList.size()-1).getAbsoluteBottomAltitude());
                 endPostion.setGimbalPitch(gpsList.get(gpsList.size()-1).getGimbalPitch());
                 wayPoint.setEndPosition(endPostion);
-                collectionBean.setWaypoint(wayPoint);
+                collectionBean.setWayPoint(wayPoint);
                 collectionBean.setImages(new ArrayList<>());
                 targetsCollection.add(collectionBean);
             }
@@ -178,7 +180,7 @@ public class TransformUtil {
                 System.out.println("MissionTowers 转换 list 成功");
             }
             resultCollection.addAll(collections);
-            String result = "{\"activeDateList\":" + gson.toJson(resultCollection) + "}";
+            String result = "{\"activeDataList\":" + gson.toJson(resultCollection) + "}";
             FileUtil.write(Values.COLLECTIONS_NAME, result);
             System.out.println("MissionTowers.json 转换 CollectionInfo.json 成功");
         }
